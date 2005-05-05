@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-03 22:43+0200\n"
+"POT-Creation-Date: 2005-05-05 14:28+0200\n"
 "PO-Revision-Date: 2005-05-04 22:43+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -79,26 +79,26 @@ msgstr "knytnäve"
 msgid "impact"
 msgstr "kross"
 
-#: Mystery_Campaign/utils/config.cfg:29
+#: Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
 msgstr "Vilken grupp vill du spela?"
 
-#: Mystery_Campaign/utils/config.cfg:31
+#: Mystery_Campaign/utils/config.cfg:32
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Välj ut en åt mig!"
 
-#: Mystery_Campaign/utils/config.cfg:68
+#: Mystery_Campaign/utils/config.cfg:70
 msgid "What type of unit should your leader be?"
 msgstr "Vilken sorts ledare vill du ha?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:161
+#: Mystery_Campaign/utils/scenarios.cfg:162
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Snälla, gör mig inte illa! Har du inget medlidande?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:233
+#: Mystery_Campaign/utils/scenarios.cfg:235
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Nej, det är hopplöst! Jag ger upp!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:239
+#: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
 msgstr "Din fiende har kapitulerat!"

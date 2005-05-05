@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-03 22:43+0200\n"
+"POT-Creation-Date: 2005-05-05 14:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,27 +59,27 @@ msgstr ""
 msgid "impact"
 msgstr ""
 
-#: ./Mystery_Campaign/utils/config.cfg:29
+#: ./Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
 msgstr ""
 
-#: ./Mystery_Campaign/utils/config.cfg:31
+#: ./Mystery_Campaign/utils/config.cfg:32
 msgid "&random-enemy.png=Pick one for me!"
 msgstr ""
 
-#: ./Mystery_Campaign/utils/config.cfg:68
+#: ./Mystery_Campaign/utils/config.cfg:70
 msgid "What type of unit should your leader be?"
 msgstr ""
 
-#: ./Mystery_Campaign/utils/scenarios.cfg:161
+#: ./Mystery_Campaign/utils/scenarios.cfg:162
 msgid "Please don't hurt me! Have you no pity?"
 msgstr ""
 
-#: ./Mystery_Campaign/utils/scenarios.cfg:233
+#: ./Mystery_Campaign/utils/scenarios.cfg:235
 msgid "Oh, it's hopeless! I surrender!"
 msgstr ""
 
-#: ./Mystery_Campaign/utils/scenarios.cfg:239
+#: ./Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
 msgstr ""
 
