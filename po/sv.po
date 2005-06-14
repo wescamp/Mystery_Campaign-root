@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 14:28+0200\n"
-"PO-Revision-Date: 2005-05-04 22:43+0200\n"
+"PO-Revision-Date: 2005-06-14 18:54+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr "kross"
 
 #: Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
-msgstr "Vilken grupp vill du spela?"
+msgstr "Vilken fraktion vill du spela?"
 
 #: Mystery_Campaign/utils/config.cfg:32
 msgid "&random-enemy.png=Pick one for me!"
