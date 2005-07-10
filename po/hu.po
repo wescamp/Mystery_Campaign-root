@@ -1,10 +1,11 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 14:28+0200\n"
-"PO-Revision-Date: 2005-05-03 22:43+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2005-07-10 13:34+0200\n"
+"Last-Translator: Automatically generated <>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,29 +14,31 @@ msgstr ""
 
 #: Mystery_Campaign.cfg:17
 msgid "Mystery Campaign"
-msgstr ""
+msgstr "Rejtelem hadjárat"
 
 #: Mystery_Campaign.cfg:20
 msgid "Easy"
-msgstr ""
+msgstr "Könnyű"
 
 #: Mystery_Campaign.cfg:21
 msgid "Not so easy"
-msgstr ""
+msgstr "Nem olyan könnyű"
 
 #: Mystery_Campaign.cfg:22
 msgid "Nightmare"
-msgstr ""
+msgstr "Rémálom"
 
 #: Mystery_Campaign.cfg:24
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
 msgstr ""
+"Ez egy végtelenül hosszú, véletlenszerű hadjárat. Ahogy játszod, kölünböző "
+"módokon válik egyre nehezebbé. Vajon hány pályát tudsz végigvinni?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
-msgstr ""
+msgstr "Rejtelem pálya"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
 msgid ""
@@ -46,10 +49,17 @@ msgid ""
 "\n"
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
+"Üdvözlet, $player_leader|, érezd jól magad a $scenario_number|. pályán!\n"
+"\n"
+"Én $gold arannyal rendelkezem, és az én $enemy_faction hadseregem a "
+"következő fajta egységekből áll: $enemy_recruits|. \n"
+"\n"
+"Ahhoz, hogy túljuss ezen a pályám, le kell győznöd, vagy kierőltetned, hogy "
+"feladjam a játékot!"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
-msgstr ""
+msgstr "Tengeri törp"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
 msgid ""
@@ -57,35 +67,38 @@ msgid ""
 "underwater.  Of course, no-one could possibly believe such a ridiculous "
 "story."
 msgstr ""
+"A legendák egy tengerben élő, vízi életmódhoz szokott törp kolóniáról "
+"mesélnek. Természetesen, valószínűleg senki se hisz az ilyen nevetséges "
+"történetekben."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:17
 msgid "fist"
-msgstr ""
+msgstr "ököl"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:18
 msgid "impact"
-msgstr ""
+msgstr "páncéltörés"
 
 #: Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
-msgstr ""
+msgstr "Melyik fajjal kívánsz lenni:"
 
 #: Mystery_Campaign/utils/config.cfg:32
 msgid "&random-enemy.png=Pick one for me!"
-msgstr ""
+msgstr "&random-enemy.png=Válassz egyet nekem!"
 
 #: Mystery_Campaign/utils/config.cfg:70
 msgid "What type of unit should your leader be?"
-msgstr ""
+msgstr "Milyen fajta egység legyen a vezéred?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:162
 msgid "Please don't hurt me! Have you no pity?"
-msgstr ""
+msgstr "Kérlek ne bánts! Nincs benned szánalom?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:235
 msgid "Oh, it's hopeless! I surrender!"
-msgstr ""
+msgstr "Ó, ez reménytelen! Megadom magam!"
 
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
-msgstr ""
+msgstr "Az ellenfeled feladta az összecsapást!"
