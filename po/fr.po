@@ -4,8 +4,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 14:28+0200\n"
 "PO-Revision-Date: 2005-05-03 22:43+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Last-Translator: blurgk <blurgk@gmail.com>\n"
+"Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -76,7 +76,7 @@ msgstr "poing"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:18
 msgid "impact"
-msgstr "impact"
+msgstr "contondant"
 
 #: Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
