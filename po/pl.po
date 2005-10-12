@@ -3,90 +3,89 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 14:28+0200\n"
-"PO-Revision-Date: 2005-05-03 22:43+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2005-10-12 14:07+0100\n"
+"Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: Mystery_Campaign.cfg:17
 msgid "Mystery Campaign"
-msgstr ""
+msgstr "Tajemnicza Kampania"
 
 #: Mystery_Campaign.cfg:20
 msgid "Easy"
-msgstr ""
+msgstr "Łatwy"
 
 #: Mystery_Campaign.cfg:21
 msgid "Not so easy"
-msgstr ""
+msgstr "Nie aż tak łatwy"
 
 #: Mystery_Campaign.cfg:22
 msgid "Nightmare"
-msgstr ""
+msgstr "Koszmarny"
 
 #: Mystery_Campaign.cfg:24
-msgid ""
-"This is an infinitely long, random, campaign. As you play, it gets "
-"increasing difficult in various ways.  How many scenarios can you complete?"
-msgstr ""
+msgid "This is an infinitely long, random, campaign. As you play, it gets increasing difficult in various ways.  How many scenarios can you complete?"
+msgstr "To jest nieskończenie długa losowa kampania. Im dłużej w nia grasz, tym staje się trudniejsza na różne sposoby. Ile scenariuszy dasz radę przejść?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
-msgstr ""
+msgstr "Tajemniczy scenariusz"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
-"I have $gold gold, and my army of $enemy_faction consists of the following "
-"types of unit: $enemy_recruits|. \n"
+"I have $gold gold, and my army of $enemy_faction consists of the following types of unit: $enemy_recruits|. \n"
 "\n"
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
+"Bądźcie pozdrowieni, $player_leader|, witam w scenariuszu $scenario_number|.\n"
+"\n"
+"Mam $gold złota, a moja armia $enemy_faction składa sie z jednostek następujących typów: $enemy_recruits|.\n"
+"\n"
+"Aby skończyć ten scenariusz, musisz pokonać mnie, albo zmusić do poddania!"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
-msgstr ""
+msgstr "Krasnowodniki"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
-msgid ""
-"Legends tell of dwarves who took to the sea, and adapted to life "
-"underwater.  Of course, no-one could possibly believe such a ridiculous "
-"story."
-msgstr ""
+msgid "Legends tell of dwarves who took to the sea, and adapted to life underwater.  Of course, no-one could possibly believe such a ridiculous story."
+msgstr "Legendy mówią o krasnoludach, które dotarły do morza i dostosowały się do życia pod wodą. Oczywiście, w tak głupiutką opowiastkę nikt by nie uwierzył."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:17
 msgid "fist"
-msgstr ""
+msgstr "pięść"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:18
 msgid "impact"
-msgstr ""
+msgstr "obuchowa"
 
 #: Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
-msgstr ""
+msgstr "Którą fakcją chciałbyś kierować:"
 
 #: Mystery_Campaign/utils/config.cfg:32
 msgid "&random-enemy.png=Pick one for me!"
-msgstr ""
+msgstr "&random-enemy.png=Wybierz jedną dla mnie!"
 
 #: Mystery_Campaign/utils/config.cfg:70
 msgid "What type of unit should your leader be?"
-msgstr ""
+msgstr "Jakiego typu jednostką powinien być twój przywódca?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:162
 msgid "Please don't hurt me! Have you no pity?"
-msgstr ""
+msgstr "Proszę, nie krzywdź mnie! Czy nie ma w tobie litości?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:235
 msgid "Oh, it's hopeless! I surrender!"
-msgstr ""
+msgstr "Och, moja sytuacja jest beznadziejna. Poddaję się!"
 
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
-msgstr ""
+msgstr "Twój wróg się poddał!"
+
