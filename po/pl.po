@@ -9,7 +9,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Mystery_Campaign.cfg:17
 msgid "Mystery Campaign"
@@ -28,8 +29,12 @@ msgid "Nightmare"
 msgstr "Koszmarny"
 
 #: Mystery_Campaign.cfg:24
-msgid "This is an infinitely long, random, campaign. As you play, it gets increasing difficult in various ways.  How many scenarios can you complete?"
-msgstr "To jest nieskończenie długa losowa kampania. Im dłużej w nia grasz, tym staje się trudniejsza na różne sposoby. Ile scenariuszy dasz radę przejść?"
+msgid ""
+"This is an infinitely long, random, campaign. As you play, it gets "
+"increasing difficult in various ways.  How many scenarios can you complete?"
+msgstr ""
+"To jest nieskończenie długa losowa kampania. Im dłużej w nia grasz, tym "
+"staje się trudniejsza na różne sposoby. Ile scenariuszy dasz radę przejść?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
@@ -39,13 +44,16 @@ msgstr "Tajemniczy scenariusz"
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
-"I have $gold gold, and my army of $enemy_faction consists of the following types of unit: $enemy_recruits|. \n"
+"I have $gold gold, and my army of $enemy_faction consists of the following "
+"types of unit: $enemy_recruits|. \n"
 "\n"
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
-"Bądźcie pozdrowieni, $player_leader|, witam w scenariuszu $scenario_number|.\n"
+"Bądźcie pozdrowieni, $player_leader|, witam w scenariuszu "
+"$scenario_number|.\n"
 "\n"
-"Mam $gold złota, a moja armia $enemy_faction składa sie z jednostek następujących typów: $enemy_recruits|.\n"
+"Mam $gold złota, a moja armia $enemy_faction składa sie z jednostek "
+"następujących typów: $enemy_recruits|.\n"
 "\n"
 "Aby skończyć ten scenariusz, musisz pokonać mnie, albo zmusić do poddania!"
 
@@ -54,8 +62,13 @@ msgid "Merdwarf"
 msgstr "Krasnowodniki"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
-msgid "Legends tell of dwarves who took to the sea, and adapted to life underwater.  Of course, no-one could possibly believe such a ridiculous story."
-msgstr "Legendy mówią o krasnoludach, które dotarły do morza i dostosowały się do życia pod wodą. Oczywiście, w tak głupiutką opowiastkę nikt by nie uwierzył."
+msgid ""
+"Legends tell of dwarves who took to the sea, and adapted to life "
+"underwater.  Of course, no-one could possibly believe such a ridiculous "
+"story."
+msgstr ""
+"Legendy mówią o krasnoludach, które dotarły do morza i dostosowały się do "
+"życia pod wodą. Oczywiście, w tak głupiutką opowiastkę nikt by nie uwierzył."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:17
 msgid "fist"
@@ -88,4 +101,3 @@ msgstr "Och, moja sytuacja jest beznadziejna. Poddaję się!"
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
 msgstr "Twój wróg się poddał!"
-
