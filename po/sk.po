@@ -3,39 +3,40 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 14:28+0200\n"
-"PO-Revision-Date: 2005-05-03 22:43+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2005-10-26 13:55+0100\n"
+"Last-Translator: Viliam Búr <bur@fantastika.sk>\n"
+"Language-Team: none <viliam@bur.sk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: Mystery_Campaign.cfg:17
 msgid "Mystery Campaign"
-msgstr ""
+msgstr "Záhada"
 
 #: Mystery_Campaign.cfg:20
 msgid "Easy"
-msgstr ""
+msgstr "Ľahká"
 
 #: Mystery_Campaign.cfg:21
 msgid "Not so easy"
-msgstr ""
+msgstr "Menej ľahká"
 
 #: Mystery_Campaign.cfg:22
 msgid "Nightmare"
-msgstr ""
+msgstr "Nočná mora"
 
 #: Mystery_Campaign.cfg:24
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
 msgstr ""
+"Toto je nekonečne dlhý, náhodný scenár. Počas hry sa zložitosť rôznymi "
+"spôsobmi neustále zvyšuje. Koľko scén si trúfate zvládnuť?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
-msgstr ""
+msgstr "Záhadná scéna"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
 msgid ""
@@ -46,10 +47,16 @@ msgid ""
 "\n"
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
+"Zdravíčko, $player_leader|, vitaj v scéne $scenario_number|.\n"
+"\n"
+"Mám $gold zlata, a moja armáda, $enemy_faction, sa skladá z nasledujúcich "
+"druhov jednotiek: $enemy_recruits|. \n"
+"\n"
+"Aby si dokončil scénu, musíš ma poraziť, alebo donútiť vzdať sa!"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
-msgstr ""
+msgstr "Morský trpaslík"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
 msgid ""
@@ -57,35 +64,37 @@ msgid ""
 "underwater.  Of course, no-one could possibly believe such a ridiculous "
 "story."
 msgstr ""
+"Legendy hovoria o trpaslíkoch, ktorí prišli do mora a prispôsobili sa životu "
+"pod vodou. Samozrejme, takému smiešnemu príbehu by asi nikto neuveril."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:17
 msgid "fist"
-msgstr ""
+msgstr "päsť"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:18
 msgid "impact"
-msgstr ""
+msgstr "drvivý"
 
 #: Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
-msgstr ""
+msgstr "Za ktorú frakciu chceš hrať:"
 
 #: Mystery_Campaign/utils/config.cfg:32
 msgid "&random-enemy.png=Pick one for me!"
-msgstr ""
+msgstr "&random-enemy.png=Vyber niečo za mňa!"
 
 #: Mystery_Campaign/utils/config.cfg:70
 msgid "What type of unit should your leader be?"
-msgstr ""
+msgstr "Aký druh jednotky by mal byť tvoj veliteľ?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:162
 msgid "Please don't hurt me! Have you no pity?"
-msgstr ""
+msgstr "Prosím neubližuj mi! Zľutuj sa."
 
 #: Mystery_Campaign/utils/scenarios.cfg:235
 msgid "Oh, it's hopeless! I surrender!"
-msgstr ""
+msgstr "Ach, to je beznádejné! Vzdávam sa!"
 
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
-msgstr ""
+msgstr "Tvoj súper sa vzdal!"
