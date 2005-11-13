@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-05 14:28+0200\n"
-"PO-Revision-Date: 2005-05-03 23:00+0100\n"
+"POT-Creation-Date: 2005-11-13 18:05+0100\n"
+"PO-Revision-Date: 2005-11-13 18:05+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,10 @@ msgstr ""
 "Dies ist eine unendlich lange, zufällige Kampagne. Während Sie spielen, wird "
 "es in mehrfacher Hinsicht schwieriger. Wie viele Szenarien können Sie "
 "gewinnen?"
+
+#: Mystery_Campaign/factions_config.cfg:23
+msgid "Chaotic Humans"
+msgstr "Gesetzlose"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
@@ -102,3 +106,11 @@ msgstr "Oh, es ist hoffnungslos! I gebe auf!"
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
 msgstr "Euer Gegner hat sich ergeben!"
+
+#, fuzzy
+#~ msgid "Fighter"
+#~ msgstr "Alptraum"
+
+#, fuzzy
+#~ msgid "Nightgaunt"
+#~ msgstr "Alptraum"
