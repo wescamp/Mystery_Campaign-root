@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-05 14:28+0200\n"
+"POT-Creation-Date: 2005-11-13 18:05+0100\n"
 "PO-Revision-Date: 2005-10-12 14:07+0100\n"
 "Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
@@ -35,6 +35,10 @@ msgid ""
 msgstr ""
 "To jest nieskończenie długa losowa kampania. Im dłużej w nia grasz, tym "
 "staje się trudniejsza na różne sposoby. Ile scenariuszy dasz radę przejść?"
+
+#: Mystery_Campaign/factions_config.cfg:23
+msgid "Chaotic Humans"
+msgstr ""
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
@@ -101,3 +105,11 @@ msgstr "Och, moja sytuacja jest beznadziejna. Poddaję się!"
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
 msgstr "Twój wróg się poddał!"
+
+#, fuzzy
+#~ msgid "Fighter"
+#~ msgstr "Koszmarny"
+
+#, fuzzy
+#~ msgid "Nightgaunt"
+#~ msgstr "Koszmarny"

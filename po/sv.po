@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-05 14:28+0200\n"
+"POT-Creation-Date: 2005-11-13 18:05+0100\n"
 "PO-Revision-Date: 2005-06-14 18:54+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -35,6 +35,10 @@ msgid ""
 msgstr ""
 "Detta är en oändligt lång, slumpmässigt utformad kampanj. Svårighetsgraden "
 "ökar allt eftersom du spelar. Hur många scenarier kan du klara av?"
+
+#: Mystery_Campaign/factions_config.cfg:23
+msgid "Chaotic Humans"
+msgstr ""
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
@@ -102,3 +106,11 @@ msgstr "Nej, det är hopplöst! Jag ger upp!"
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
 msgstr "Din fiende har kapitulerat!"
+
+#, fuzzy
+#~ msgid "Fighter"
+#~ msgstr "Mardröm"
+
+#, fuzzy
+#~ msgid "Nightgaunt"
+#~ msgstr "Mardröm"

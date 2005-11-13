@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-05 14:28+0200\n"
+"POT-Creation-Date: 2005-11-13 18:05+0100\n"
 "PO-Revision-Date: 2005-10-26 13:55+0100\n"
 "Last-Translator: Viliam Búr <bur@fantastika.sk>\n"
 "Language-Team: none <viliam@bur.sk>\n"
@@ -33,6 +33,10 @@ msgid ""
 msgstr ""
 "Toto je nekonečne dlhý, náhodný scenár. Počas hry sa zložitosť rôznymi "
 "spôsobmi neustále zvyšuje. Koľko scén si trúfate zvládnuť?"
+
+#: Mystery_Campaign/factions_config.cfg:23
+msgid "Chaotic Humans"
+msgstr ""
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
@@ -98,3 +102,11 @@ msgstr "Ach, to je beznádejné! Vzdávam sa!"
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
 msgstr "Tvoj súper sa vzdal!"
+
+#, fuzzy
+#~ msgid "Fighter"
+#~ msgstr "Nočná mora"
+
+#, fuzzy
+#~ msgid "Nightgaunt"
+#~ msgstr "Nočná mora"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-13 17:56+0100\n"
+"POT-Creation-Date: 2005-11-13 18:05+0100\n"
 "PO-Revision-Date: 2005-11-13 17:51+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,30 +30,6 @@ msgstr ""
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
-msgstr ""
-
-#: Mystery_Campaign/factions_config.cfg:4
-msgid "Rebels"
-msgstr ""
-
-#: Mystery_Campaign/factions_config.cfg:10
-msgid "Loyalists"
-msgstr ""
-
-#: Mystery_Campaign/factions_config.cfg:15
-msgid "Northerners"
-msgstr ""
-
-#: Mystery_Campaign/factions_config.cfg:17
-msgid "Undead"
-msgstr ""
-
-#: Mystery_Campaign/factions_config.cfg:19
-msgid "Drakes"
-msgstr ""
-
-#: Mystery_Campaign/factions_config.cfg:21
-msgid "Dwarves"
 msgstr ""
 
 #: Mystery_Campaign/factions_config.cfg:23
