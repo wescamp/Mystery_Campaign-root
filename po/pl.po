@@ -38,7 +38,7 @@ msgstr ""
 
 #: Mystery_Campaign/factions_config.cfg:23
 msgid "Chaotic Humans"
-msgstr ""
+msgstr "Chaotyczni ludzie"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
