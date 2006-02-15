@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-11-13 18:05+0100\n"
+"PO-Revision-Date: 2005-11-13 18:05+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Mystery_Campaign.cfg:17
+msgid "Mystery Campaign"
+msgstr "Mystery Campaign"
+
+#: Mystery_Campaign.cfg:20
+msgid "Easy"
+msgstr "Easy"
+
+#: Mystery_Campaign.cfg:21
+msgid "Not so easy"
+msgstr "Not so easy"
+
+#: Mystery_Campaign.cfg:22
+msgid "Nightmare"
+msgstr "Nightmare"
+
+#: Mystery_Campaign.cfg:24
+msgid ""
+"This is an infinitely long, random, campaign. As you play, it gets "
+"increasing difficult in various ways.  How many scenarios can you complete?"
+msgstr ""
+"This is an infinitely long, random, campaign. As you play, it gets "
+"increasing difficult in various ways.  How many scenarios can you complete?"
+
+#: Mystery_Campaign/factions_config.cfg:23
+msgid "Chaotic Humans"
+msgstr "Chaotic Humans"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
+msgid "Mystery Scenario"
+msgstr "Mystery Scenario"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
+msgid ""
+"Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
+"\n"
+"I have $gold gold, and my army of $enemy_faction consists of the following "
+"types of unit: $enemy_recruits|. \n"
+"\n"
+"To complete the scenario, you must defeat me, or force me to surrender!"
+msgstr ""
+"Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
+"\n"
+"I have $gold gold, and my army of $enemy_faction consists of the following "
+"types of unit: $enemy_recruits|. \n"
+"\n"
+"To complete the scenario, you must defeat me, or force me to surrender!"
+
+#: Mystery_Campaign/units/Merdwarf.cfg:3
+msgid "Merdwarf"
+msgstr "Merdwarf"
+
+#: Mystery_Campaign/units/Merdwarf.cfg:14
+msgid ""
+"Legends tell of dwarves who took to the sea, and adapted to life "
+"underwater.  Of course, no-one could possibly believe such a ridiculous "
+"story."
+msgstr ""
+"Legends tell of dwarves who took to the sea, and adapted to life "
+"underwater.  Of course, no-one could possibly believe such a ridiculous "
+"story."
+
+#: Mystery_Campaign/units/Merdwarf.cfg:17
+msgid "fist"
+msgstr "fist"
+
+#: Mystery_Campaign/units/Merdwarf.cfg:18
+msgid "impact"
+msgstr "impact"
+
+#: Mystery_Campaign/utils/config.cfg:30
+msgid "What faction do you want to play:"
+msgstr "What faction do you want to play:"
+
+#: Mystery_Campaign/utils/config.cfg:32
+msgid "&random-enemy.png=Pick one for me!"
+msgstr "&random-enemy.png=Pick one for me!"
+
+#: Mystery_Campaign/utils/config.cfg:70
+msgid "What type of unit should your leader be?"
+msgstr "What type of unit should your leader be?"
+
+#: Mystery_Campaign/utils/scenarios.cfg:162
+msgid "Please don't hurt me! Have you no pity?"
+msgstr "Please don't hurt me! Have you no pity?"
+
+#: Mystery_Campaign/utils/scenarios.cfg:235
+msgid "Oh, it's hopeless! I surrender!"
+msgstr "Oh, it's hopeless! I surrender!"
+
+#: Mystery_Campaign/utils/scenarios.cfg:241
+msgid "Your enemy has surrendered!"
+msgstr "Your enemy has surrendered!"
