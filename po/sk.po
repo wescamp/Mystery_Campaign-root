@@ -3,12 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-13 18:05+0100\n"
-"PO-Revision-Date: 2005-10-26 13:55+0100\n"
-"Last-Translator: Viliam Búr <bur@fantastika.sk>\n"
+"PO-Revision-Date: 2006-05-25 21:52+0100\n"
+"Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none <viliam@bur.sk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Slovak\n"
+"X-Poedit-Country: SLOVAKIA\n"
 
 #: Mystery_Campaign.cfg:17
 msgid "Mystery Campaign"
@@ -36,7 +38,7 @@ msgstr ""
 
 #: Mystery_Campaign/factions_config.cfg:23
 msgid "Chaotic Humans"
-msgstr ""
+msgstr "Chaotickí ľudia"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
