@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-13 18:05+0100\n"
-"PO-Revision-Date: 2005-09-01 12:05+0100\n"
+"PO-Revision-Date: 2006-06-28 13:40+0100\n"
 "Last-Translator: RokStar <rokstar123@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: Mystery_Campaign.cfg:17
 msgid "Mystery Campaign"
-msgstr "Campagna Misteriosa"
+msgstr "Campagna misteriosa"
 
 #: Mystery_Campaign.cfg:20
 msgid "Easy"
@@ -32,16 +32,16 @@ msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
 msgstr ""
-"Questa è una infinitamente lunga campagna casuale. Man mano che giochi la "
-"difficoltà aumenta in vari modi. Quandi scenari riuscirai a completare?"
+"Questa è una campagna casuale infinitamente lunga. Man mano che giochi la "
+"difficoltà aumenta in vari modi. Quanti scenari riuscirai a completare?"
 
 #: Mystery_Campaign/factions_config.cfg:23
 msgid "Chaotic Humans"
-msgstr ""
+msgstr "Uomini del caos"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
-msgstr "Scenario Misterioso"
+msgstr "Scenario del mistero"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
 msgid ""
@@ -61,7 +61,7 @@ msgstr ""
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
-msgstr "Nano Marino"
+msgstr "Nano del mare"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
 msgid ""
@@ -90,11 +90,11 @@ msgstr "&random-enemy.png=Scegli tu per me!"
 
 #: Mystery_Campaign/utils/config.cfg:70
 msgid "What type of unit should your leader be?"
-msgstr "Quale tipo di unità vuoi che sia il tuo leader?"
+msgstr "Quale tipo di unità vuoi che sia il tuo comandante?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:162
 msgid "Please don't hurt me! Have you no pity?"
-msgstr "Per favore non farmi male! Non hai nessuna pietà?"
+msgstr "Per favore, non farmi male! Non hai nessuna pietà?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:235
 msgid "Oh, it's hopeless! I surrender!"
