@@ -1,18 +1,26 @@
+#
+# Catalan translations for Battle for Wesnoth package.
+# Copyright (C) 2004 Wesnoth development team
+# This file is distributed under the same license as the Battle for
+# Wesnoth package.
+#
+# Jose Gordillo <kilder@hotmail.com>, 2006.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-13 18:05+0100\n"
-"PO-Revision-Date: 2005-05-03 22:43+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-09-18 18:58+0200\n"
+"Last-Translator: Jose Gordillo\n"
+"Language-Team: Català <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: Mystery_Campaign.cfg:17
 msgid "Mystery Campaign"
-msgstr ""
+msgstr "Campanya Misteriosa"
 
 #: Mystery_Campaign.cfg:20
 msgid "Easy"
@@ -20,25 +28,28 @@ msgstr "Fàcil"
 
 #: Mystery_Campaign.cfg:21
 msgid "Not so easy"
-msgstr ""
+msgstr "No tan fàcil"
 
 #: Mystery_Campaign.cfg:22
 msgid "Nightmare"
-msgstr ""
+msgstr "Malson"
 
 #: Mystery_Campaign.cfg:24
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
 msgstr ""
+"Aquesta és una campanya aleatòria i infinitament llarga. Segons progresses, "
+"el nivell de dificultat augmenta de diverses maneres. Quants escenaris "
+"podràs completar?"
 
 #: Mystery_Campaign/factions_config.cfg:23
 msgid "Chaotic Humans"
-msgstr ""
+msgstr "Humans caòtics"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
-msgstr ""
+msgstr "Escenari Misteriós"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
 msgid ""
@@ -49,10 +60,16 @@ msgid ""
 "\n"
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
+"Salutacions, $player_leader| , benvingut a l'escenari $scenario_number|.\n"
+"\n"
+"Tinc $gold monedes d'or, i el meu exèrcit de $enemy_faction està format per "
+"les següents unitats: $enemy_recruits|. \n"
+"\n"
+"Per completar l'escenari, m'haureu de derrotar, o forçar la meva rendició!"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
-msgstr ""
+msgstr "Sirenan"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
 msgid ""
@@ -60,6 +77,9 @@ msgid ""
 "underwater.  Of course, no-one could possibly believe such a ridiculous "
 "story."
 msgstr ""
+"Les llegendes parlen d'uns nans que van marxar cap al mar i es van adaptar a "
+"la vida submarina. Per suposat, ningú no podria creure una història tan "
+"ridícula."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:17
 msgid "fist"
@@ -71,24 +91,24 @@ msgstr "impacta"
 
 #: Mystery_Campaign/utils/config.cfg:30
 msgid "What faction do you want to play:"
-msgstr ""
+msgstr "Quin exèrcit vols usar:"
 
 #: Mystery_Campaign/utils/config.cfg:32
 msgid "&random-enemy.png=Pick one for me!"
-msgstr ""
+msgstr "&random-enemy.png=Tria-me'n un!"
 
 #: Mystery_Campaign/utils/config.cfg:70
 msgid "What type of unit should your leader be?"
-msgstr ""
+msgstr "Quina unitat serà el teu líder?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:162
 msgid "Please don't hurt me! Have you no pity?"
-msgstr ""
+msgstr "Per favor, no em fages mal! No tens pietat?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:235
 msgid "Oh, it's hopeless! I surrender!"
-msgstr ""
+msgstr "Oh, no hi ha esperança! Em rendisc!"
 
 #: Mystery_Campaign/utils/scenarios.cfg:241
 msgid "Your enemy has surrendered!"
-msgstr ""
+msgstr "El teu enemic s'ha rendit!"
