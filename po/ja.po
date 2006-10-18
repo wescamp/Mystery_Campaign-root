@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-13 18:05+0100\n"
+"POT-Creation-Date: 2006-10-19 00:03+0200\n"
 "PO-Revision-Date: 2006-09-11 18:46+0900\n"
 "Last-Translator: Nobuhito Okada <okyada@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -16,23 +16,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: Mystery_Campaign.cfg:17
+#: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
 msgstr "ミステリー・キャンペーン"
 
-#: Mystery_Campaign.cfg:20
-msgid "Easy"
-msgstr "易しい"
-
-#: Mystery_Campaign.cfg:21
+#: Mystery_Campaign.cfg:22
 msgid "Not so easy"
 msgstr "易しくはない"
 
-#: Mystery_Campaign.cfg:22
+#: Mystery_Campaign.cfg:23
 msgid "Nightmare"
 msgstr "悪夢"
 
-#: Mystery_Campaign.cfg:24
+#: Mystery_Campaign.cfg:25
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
@@ -40,7 +36,35 @@ msgstr ""
 "これは無限に続くランダムなキャンペーン。プレイしていくうちに、様々な方法で次"
 "第に難しくなっていく。あなたは、いくつのシナリオをクリアできるだろう？"
 
-#: Mystery_Campaign/factions_config.cfg:23
+#: Mystery_Campaign/factions/chaotic-humans.cfg:19
+msgid "Cockatrice"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:22
+msgid "Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:23
+msgid "Elvish Marshal"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:24
+msgid "Commander"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:25
+msgid "Elvish High Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:26
+msgid "Elvish Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:20
+msgid "Drakes"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
 msgstr "混沌の人間達"
 
@@ -65,6 +89,21 @@ msgstr ""
 "シナリオをクリアするには、私を倒すか、私をねじ伏せて降伏させなければならな"
 "い！"
 
+#: Mystery_Campaign/units/Lord.cfg:107
+#: Mystery_Campaign/units/Commander.cfg:101
+#: Mystery_Campaign/units/Vampire_Lady.cfg:57
+msgid "pierce"
+msgstr ""
+
+#: Mystery_Campaign/units/Elder_Mage.cfg:106
+msgid "fire"
+msgstr ""
+
+#: Mystery_Campaign/units/Elvish_High_Lord.cfg:83
+#: Mystery_Campaign/units/Elvish_Lord.cfg:72
+msgid "cold"
+msgstr ""
+
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
 msgstr "マードワーフ"
@@ -78,34 +117,52 @@ msgstr ""
 "伝説では、海を気に入って水の中での生活に適合したドワーフがいるという。もちろ"
 "ん、誰もそのようなばかばかしい話を信じることはできないだろう。"
 
-#: Mystery_Campaign/units/Merdwarf.cfg:17
-msgid "fist"
-msgstr "拳"
-
-#: Mystery_Campaign/units/Merdwarf.cfg:18
+#: Mystery_Campaign/units/Merdwarf.cfg:21
 msgid "impact"
 msgstr "打撃"
 
-#: Mystery_Campaign/utils/config.cfg:30
+#: Mystery_Campaign/units/Skeletal_Dragon.cfg:73
+msgid "blade"
+msgstr ""
+
+#: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
 msgstr "どちらの派閥でプレイしますか:"
 
-#: Mystery_Campaign/utils/config.cfg:32
+#: Mystery_Campaign/utils/config.cfg:26
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=ランダムに一つ選ぶ！"
 
-#: Mystery_Campaign/utils/config.cfg:70
+#: Mystery_Campaign/utils/config.cfg:64
 msgid "What type of unit should your leader be?"
 msgstr "あなたのリーダーはどのタイプのユニットにしますか？"
 
-#: Mystery_Campaign/utils/scenarios.cfg:162
+#: Mystery_Campaign/utils/scenarios.cfg:176
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "傷つけないで下さい！ 哀れみというものがないのですか？"
 
-#: Mystery_Campaign/utils/scenarios.cfg:235
+#: Mystery_Campaign/utils/scenarios.cfg:249
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "ああ、もう希望はない！ 私は降伏します！"
 
-#: Mystery_Campaign/utils/scenarios.cfg:241
+#: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "あなたの敵は降伏しました！"
+
+#~ msgid "Easy"
+#~ msgstr "易しい"
+
+#, fuzzy
+#~ msgid "What funding level do you want for the campaign?"
+#~ msgstr "どちらの派閥でプレイしますか:"
+
+#, fuzzy
+#~ msgid "Enemy leader surrenders"
+#~ msgstr "あなたの敵は降伏しました！"
+
+#, fuzzy
+#~ msgid "Your leader surrenders"
+#~ msgstr "あなたの敵は降伏しました！"
+
+#~ msgid "fist"
+#~ msgstr "拳"

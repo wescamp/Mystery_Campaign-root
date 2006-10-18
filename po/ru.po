@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-13 18:05+0100\n"
+"POT-Creation-Date: 2006-10-19 00:03+0200\n"
 "PO-Revision-Date: 2005-09-02 19:44-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,23 +12,19 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: Mystery_Campaign.cfg:17
+#: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
 msgstr "Произвольная Кампания"
 
-#: Mystery_Campaign.cfg:20
-msgid "Easy"
-msgstr "легкий"
-
-#: Mystery_Campaign.cfg:21
+#: Mystery_Campaign.cfg:22
 msgid "Not so easy"
 msgstr "Не так легко"
 
-#: Mystery_Campaign.cfg:22
+#: Mystery_Campaign.cfg:23
 msgid "Nightmare"
 msgstr "Кошмар"
 
-#: Mystery_Campaign.cfg:24
+#: Mystery_Campaign.cfg:25
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
@@ -36,7 +32,35 @@ msgstr ""
 "Это бесконечная произвольная кампания. Каждый сценарий сложнее предыдущего. "
 "Как долго Вы продержитесь?"
 
-#: Mystery_Campaign/factions_config.cfg:23
+#: Mystery_Campaign/factions/chaotic-humans.cfg:19
+msgid "Cockatrice"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:22
+msgid "Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:23
+msgid "Elvish Marshal"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:24
+msgid "Commander"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:25
+msgid "Elvish High Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:26
+msgid "Elvish Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:20
+msgid "Drakes"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
 msgstr ""
 
@@ -60,6 +84,21 @@ msgstr ""
 "\n"
 "Чтобы выиграть, Вам надо либо победить меня, либо заставить сдаться!"
 
+#: Mystery_Campaign/units/Lord.cfg:107
+#: Mystery_Campaign/units/Commander.cfg:101
+#: Mystery_Campaign/units/Vampire_Lady.cfg:57
+msgid "pierce"
+msgstr ""
+
+#: Mystery_Campaign/units/Elder_Mage.cfg:106
+msgid "fire"
+msgstr ""
+
+#: Mystery_Campaign/units/Elvish_High_Lord.cfg:83
+#: Mystery_Campaign/units/Elvish_Lord.cfg:72
+msgid "cold"
+msgstr ""
+
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
 msgstr "Мердворф"
@@ -73,34 +112,52 @@ msgstr ""
 "Легенды говорят о гномах, которые живут под водой. Конечноб этому никто не "
 "верит."
 
-#: Mystery_Campaign/units/Merdwarf.cfg:17
-msgid "fist"
-msgstr "кулак"
-
-#: Mystery_Campaign/units/Merdwarf.cfg:18
+#: Mystery_Campaign/units/Merdwarf.cfg:21
 msgid "impact"
 msgstr "удар"
 
-#: Mystery_Campaign/utils/config.cfg:30
+#: Mystery_Campaign/units/Skeletal_Dragon.cfg:73
+msgid "blade"
+msgstr ""
+
+#: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
 msgstr "Какой фракцией Вы хотите командывать:"
 
-#: Mystery_Campaign/utils/config.cfg:32
+#: Mystery_Campaign/utils/config.cfg:26
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Случайный"
 
-#: Mystery_Campaign/utils/config.cfg:70
+#: Mystery_Campaign/utils/config.cfg:64
 msgid "What type of unit should your leader be?"
 msgstr "Кем будет Ваш лидер?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:162
+#: Mystery_Campaign/utils/scenarios.cfg:176
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Пощадите меня!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:235
+#: Mystery_Campaign/utils/scenarios.cfg:249
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Я сдаюсь!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:241
+#: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "Ваш противник сдался"
+
+#~ msgid "Easy"
+#~ msgstr "легкий"
+
+#, fuzzy
+#~ msgid "What funding level do you want for the campaign?"
+#~ msgstr "Какой фракцией Вы хотите командывать:"
+
+#, fuzzy
+#~ msgid "Enemy leader surrenders"
+#~ msgstr "Ваш противник сдался"
+
+#, fuzzy
+#~ msgid "Your leader surrenders"
+#~ msgstr "Ваш противник сдался"
+
+#~ msgid "fist"
+#~ msgstr "кулак"

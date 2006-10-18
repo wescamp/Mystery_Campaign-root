@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-13 18:05+0100\n"
+"POT-Creation-Date: 2006-10-19 00:03+0200\n"
 "PO-Revision-Date: 2005-10-05 01:23+0100\n"
 "Last-Translator: Lukas Faltynek <lukas.faltynek@seznam.cz>\n"
 "Language-Team: Czech Team <wesnoth-cs-l@buchtovi.cz>\n"
@@ -11,23 +11,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#: Mystery_Campaign.cfg:17
+#: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
 msgstr "Záhadné tažení"
 
-#: Mystery_Campaign.cfg:20
-msgid "Easy"
-msgstr "Snadná"
-
-#: Mystery_Campaign.cfg:21
+#: Mystery_Campaign.cfg:22
 msgid "Not so easy"
 msgstr "Ne tak lehká"
 
-#: Mystery_Campaign.cfg:22
+#: Mystery_Campaign.cfg:23
 msgid "Nightmare"
 msgstr "Noční můra"
 
-#: Mystery_Campaign.cfg:24
+#: Mystery_Campaign.cfg:25
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
@@ -35,7 +31,35 @@ msgstr ""
 "Toto je nekonečné, náhodné tažení. Během hry se různými způsoby zvyšuje "
 "obtížnost.  Kolik scénářů dokážeš dokončit?"
 
-#: Mystery_Campaign/factions_config.cfg:23
+#: Mystery_Campaign/factions/chaotic-humans.cfg:19
+msgid "Cockatrice"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:22
+msgid "Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:23
+msgid "Elvish Marshal"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:24
+msgid "Commander"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:25
+msgid "Elvish High Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:26
+msgid "Elvish Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:20
+msgid "Drakes"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
 msgstr "Chaotičtí lidé"
 
@@ -59,6 +83,21 @@ msgstr ""
 "\n"
 "Abys dokončil scénář, musíš mě porazit, nebo donutit se vzdát!"
 
+#: Mystery_Campaign/units/Lord.cfg:107
+#: Mystery_Campaign/units/Commander.cfg:101
+#: Mystery_Campaign/units/Vampire_Lady.cfg:57
+msgid "pierce"
+msgstr ""
+
+#: Mystery_Campaign/units/Elder_Mage.cfg:106
+msgid "fire"
+msgstr ""
+
+#: Mystery_Campaign/units/Elvish_High_Lord.cfg:83
+#: Mystery_Campaign/units/Elvish_Lord.cfg:72
+msgid "cold"
+msgstr ""
+
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
 msgstr "Vodní trpaslík"
@@ -73,34 +112,52 @@ msgstr ""
 "životu pod vodou. Samozřejme, že nikoho ani nenapadlo věřit tak podivné "
 "historce."
 
-#: Mystery_Campaign/units/Merdwarf.cfg:17
-msgid "fist"
-msgstr "pěst"
-
-#: Mystery_Campaign/units/Merdwarf.cfg:18
+#: Mystery_Campaign/units/Merdwarf.cfg:21
 msgid "impact"
 msgstr "úder"
 
-#: Mystery_Campaign/utils/config.cfg:30
+#: Mystery_Campaign/units/Skeletal_Dragon.cfg:73
+msgid "blade"
+msgstr ""
+
+#: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
 msgstr "Za kterou frakci chceš hrát:"
 
-#: Mystery_Campaign/utils/config.cfg:32
+#: Mystery_Campaign/utils/config.cfg:26
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Vyber pro mě!"
 
-#: Mystery_Campaign/utils/config.cfg:70
+#: Mystery_Campaign/utils/config.cfg:64
 msgid "What type of unit should your leader be?"
 msgstr "Jaká jednotka má reprezentovat tvého vůdce?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:162
+#: Mystery_Campaign/utils/scenarios.cfg:176
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Prosím, neubližuj mi! Což nemáš slitování"
 
-#: Mystery_Campaign/utils/scenarios.cfg:235
+#: Mystery_Campaign/utils/scenarios.cfg:249
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Ach, je to beznadějné! Vzdávám se!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:241
+#: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "Tvůj nepřítel se vzdal"
+
+#~ msgid "Easy"
+#~ msgstr "Snadná"
+
+#, fuzzy
+#~ msgid "What funding level do you want for the campaign?"
+#~ msgstr "Za kterou frakci chceš hrát:"
+
+#, fuzzy
+#~ msgid "Enemy leader surrenders"
+#~ msgstr "Tvůj nepřítel se vzdal"
+
+#, fuzzy
+#~ msgid "Your leader surrenders"
+#~ msgstr "Tvůj nepřítel se vzdal"
+
+#~ msgid "fist"
+#~ msgstr "pěst"

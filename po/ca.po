@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-13 18:05+0100\n"
+"POT-Creation-Date: 2006-10-19 00:03+0200\n"
 "PO-Revision-Date: 2006-09-18 18:58+0200\n"
 "Last-Translator: Jose Gordillo\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
@@ -18,23 +18,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: Mystery_Campaign.cfg:17
+#: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
 msgstr "Campanya Misteriosa"
 
-#: Mystery_Campaign.cfg:20
-msgid "Easy"
-msgstr "Fàcil"
-
-#: Mystery_Campaign.cfg:21
+#: Mystery_Campaign.cfg:22
 msgid "Not so easy"
 msgstr "No tan fàcil"
 
-#: Mystery_Campaign.cfg:22
+#: Mystery_Campaign.cfg:23
 msgid "Nightmare"
 msgstr "Malson"
 
-#: Mystery_Campaign.cfg:24
+#: Mystery_Campaign.cfg:25
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
@@ -43,7 +39,35 @@ msgstr ""
 "el nivell de dificultat augmenta de diverses maneres. Quants escenaris "
 "podràs completar?"
 
-#: Mystery_Campaign/factions_config.cfg:23
+#: Mystery_Campaign/factions/chaotic-humans.cfg:19
+msgid "Cockatrice"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:22
+msgid "Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:23
+msgid "Elvish Marshal"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:24
+msgid "Commander"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:25
+msgid "Elvish High Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:26
+msgid "Elvish Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:20
+msgid "Drakes"
+msgstr ""
+
+#: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
 msgstr "Humans caòtics"
 
@@ -67,6 +91,21 @@ msgstr ""
 "\n"
 "Per completar l'escenari, m'haureu de derrotar, o forçar la meva rendició!"
 
+#: Mystery_Campaign/units/Lord.cfg:107
+#: Mystery_Campaign/units/Commander.cfg:101
+#: Mystery_Campaign/units/Vampire_Lady.cfg:57
+msgid "pierce"
+msgstr ""
+
+#: Mystery_Campaign/units/Elder_Mage.cfg:106
+msgid "fire"
+msgstr ""
+
+#: Mystery_Campaign/units/Elvish_High_Lord.cfg:83
+#: Mystery_Campaign/units/Elvish_Lord.cfg:72
+msgid "cold"
+msgstr ""
+
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
 msgstr "Sirenan"
@@ -81,34 +120,52 @@ msgstr ""
 "la vida submarina. Per suposat, ningú no podria creure una història tan "
 "ridícula."
 
-#: Mystery_Campaign/units/Merdwarf.cfg:17
-msgid "fist"
-msgstr "puny"
-
-#: Mystery_Campaign/units/Merdwarf.cfg:18
+#: Mystery_Campaign/units/Merdwarf.cfg:21
 msgid "impact"
 msgstr "impacta"
 
-#: Mystery_Campaign/utils/config.cfg:30
+#: Mystery_Campaign/units/Skeletal_Dragon.cfg:73
+msgid "blade"
+msgstr ""
+
+#: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
 msgstr "Quin exèrcit vols usar:"
 
-#: Mystery_Campaign/utils/config.cfg:32
+#: Mystery_Campaign/utils/config.cfg:26
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Tria-me'n un!"
 
-#: Mystery_Campaign/utils/config.cfg:70
+#: Mystery_Campaign/utils/config.cfg:64
 msgid "What type of unit should your leader be?"
 msgstr "Quina unitat serà el teu líder?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:162
+#: Mystery_Campaign/utils/scenarios.cfg:176
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Per favor, no em fages mal! No tens pietat?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:235
+#: Mystery_Campaign/utils/scenarios.cfg:249
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Oh, no hi ha esperança! Em rendisc!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:241
+#: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "El teu enemic s'ha rendit!"
+
+#~ msgid "Easy"
+#~ msgstr "Fàcil"
+
+#, fuzzy
+#~ msgid "What funding level do you want for the campaign?"
+#~ msgstr "Quin exèrcit vols usar:"
+
+#, fuzzy
+#~ msgid "Enemy leader surrenders"
+#~ msgstr "El teu enemic s'ha rendit!"
+
+#, fuzzy
+#~ msgid "Your leader surrenders"
+#~ msgstr "El teu enemic s'ha rendit!"
+
+#~ msgid "fist"
+#~ msgstr "puny"
