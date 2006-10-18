@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 00:03+0200\n"
+"POT-Creation-Date: 2006-10-19 01:05+0200\n"
 "PO-Revision-Date: 2006-03-13 02:59+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -45,15 +45,11 @@ msgstr ""
 msgid "Elvish Marshal"
 msgstr ""
 
-#: Mystery_Campaign/factions/rebels.cfg:24
-msgid "Commander"
-msgstr ""
-
-#: Mystery_Campaign/factions/rebels.cfg:25
+#: Mystery_Campaign/factions/rebels.cfg:28
 msgid "Elvish High Lord"
 msgstr ""
 
-#: Mystery_Campaign/factions/rebels.cfg:26
+#: Mystery_Campaign/factions/rebels.cfg:29
 msgid "Elvish Lord"
 msgstr ""
 
@@ -86,19 +82,17 @@ msgstr ""
 "För att vinna scenariot så måste du besegra mig, eller tvinga mig till "
 "kapitulation!"
 
-#: Mystery_Campaign/units/Lord.cfg:107
-#: Mystery_Campaign/units/Commander.cfg:101
-#: Mystery_Campaign/units/Vampire_Lady.cfg:57
-msgid "pierce"
+#: Mystery_Campaign/units/Commander.cfg:29
+msgid ""
+"The rank of Commander is held by those who lead battle groups into combat. "
+"Possessing leadership skills, they give lower-level units in adjacent hexes "
+"improved performance in combat. Commanders are best skilled with the sword, "
+"although they also carry a bow to use when necessary. If the Commander is "
+"lost, so is the battle."
 msgstr ""
 
-#: Mystery_Campaign/units/Elder_Mage.cfg:106
-msgid "fire"
-msgstr ""
-
-#: Mystery_Campaign/units/Elvish_High_Lord.cfg:83
-#: Mystery_Campaign/units/Elvish_Lord.cfg:72
-msgid "cold"
+#: Mystery_Campaign/units/Commander.cfg:36
+msgid "blade"
 msgstr ""
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
@@ -114,14 +108,6 @@ msgstr ""
 "Legenderna berättar om dvärgar som tog sin tillflykt till havet, och "
 "anpassade sig till ett liv under vatten. Givetvis är det ingen som tror på "
 "sådana löjliga amsagor."
-
-#: Mystery_Campaign/units/Merdwarf.cfg:21
-msgid "impact"
-msgstr "kross"
-
-#: Mystery_Campaign/units/Skeletal_Dragon.cfg:73
-msgid "blade"
-msgstr ""
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
@@ -146,6 +132,9 @@ msgstr "Nej, det är hopplöst! Jag ger upp!"
 #: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "Din fiende har kapitulerat!"
+
+#~ msgid "impact"
+#~ msgstr "kross"
 
 #~ msgid "Easy"
 #~ msgstr "Lätt"

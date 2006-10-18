@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 00:03+0200\n"
+"POT-Creation-Date: 2006-10-19 01:05+0200\n"
 "PO-Revision-Date: 2006-09-11 18:46+0900\n"
 "Last-Translator: Nobuhito Okada <okyada@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -48,15 +48,11 @@ msgstr ""
 msgid "Elvish Marshal"
 msgstr ""
 
-#: Mystery_Campaign/factions/rebels.cfg:24
-msgid "Commander"
-msgstr ""
-
-#: Mystery_Campaign/factions/rebels.cfg:25
+#: Mystery_Campaign/factions/rebels.cfg:28
 msgid "Elvish High Lord"
 msgstr ""
 
-#: Mystery_Campaign/factions/rebels.cfg:26
+#: Mystery_Campaign/factions/rebels.cfg:29
 msgid "Elvish Lord"
 msgstr ""
 
@@ -89,19 +85,17 @@ msgstr ""
 "シナリオをクリアするには、私を倒すか、私をねじ伏せて降伏させなければならな"
 "い！"
 
-#: Mystery_Campaign/units/Lord.cfg:107
-#: Mystery_Campaign/units/Commander.cfg:101
-#: Mystery_Campaign/units/Vampire_Lady.cfg:57
-msgid "pierce"
+#: Mystery_Campaign/units/Commander.cfg:29
+msgid ""
+"The rank of Commander is held by those who lead battle groups into combat. "
+"Possessing leadership skills, they give lower-level units in adjacent hexes "
+"improved performance in combat. Commanders are best skilled with the sword, "
+"although they also carry a bow to use when necessary. If the Commander is "
+"lost, so is the battle."
 msgstr ""
 
-#: Mystery_Campaign/units/Elder_Mage.cfg:106
-msgid "fire"
-msgstr ""
-
-#: Mystery_Campaign/units/Elvish_High_Lord.cfg:83
-#: Mystery_Campaign/units/Elvish_Lord.cfg:72
-msgid "cold"
+#: Mystery_Campaign/units/Commander.cfg:36
+msgid "blade"
 msgstr ""
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
@@ -116,14 +110,6 @@ msgid ""
 msgstr ""
 "伝説では、海を気に入って水の中での生活に適合したドワーフがいるという。もちろ"
 "ん、誰もそのようなばかばかしい話を信じることはできないだろう。"
-
-#: Mystery_Campaign/units/Merdwarf.cfg:21
-msgid "impact"
-msgstr "打撃"
-
-#: Mystery_Campaign/units/Skeletal_Dragon.cfg:73
-msgid "blade"
-msgstr ""
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
@@ -148,6 +134,9 @@ msgstr "ああ、もう希望はない！ 私は降伏します！"
 #: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "あなたの敵は降伏しました！"
+
+#~ msgid "impact"
+#~ msgstr "打撃"
 
 #~ msgid "Easy"
 #~ msgstr "易しい"

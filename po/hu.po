@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 00:03+0200\n"
+"POT-Creation-Date: 2006-10-19 01:05+0200\n"
 "PO-Revision-Date: 2005-07-10 13:34+0200\n"
 "Last-Translator: Automatically generated <>\n"
 "Language-Team: none\n"
@@ -44,15 +44,11 @@ msgstr ""
 msgid "Elvish Marshal"
 msgstr ""
 
-#: Mystery_Campaign/factions/rebels.cfg:24
-msgid "Commander"
-msgstr ""
-
-#: Mystery_Campaign/factions/rebels.cfg:25
+#: Mystery_Campaign/factions/rebels.cfg:28
 msgid "Elvish High Lord"
 msgstr ""
 
-#: Mystery_Campaign/factions/rebels.cfg:26
+#: Mystery_Campaign/factions/rebels.cfg:29
 msgid "Elvish Lord"
 msgstr ""
 
@@ -85,19 +81,17 @@ msgstr ""
 "Ahhoz, hogy túljuss ezen a pályám, le kell győznöd, vagy kierőltetned, hogy "
 "feladjam a játékot!"
 
-#: Mystery_Campaign/units/Lord.cfg:107
-#: Mystery_Campaign/units/Commander.cfg:101
-#: Mystery_Campaign/units/Vampire_Lady.cfg:57
-msgid "pierce"
+#: Mystery_Campaign/units/Commander.cfg:29
+msgid ""
+"The rank of Commander is held by those who lead battle groups into combat. "
+"Possessing leadership skills, they give lower-level units in adjacent hexes "
+"improved performance in combat. Commanders are best skilled with the sword, "
+"although they also carry a bow to use when necessary. If the Commander is "
+"lost, so is the battle."
 msgstr ""
 
-#: Mystery_Campaign/units/Elder_Mage.cfg:106
-msgid "fire"
-msgstr ""
-
-#: Mystery_Campaign/units/Elvish_High_Lord.cfg:83
-#: Mystery_Campaign/units/Elvish_Lord.cfg:72
-msgid "cold"
+#: Mystery_Campaign/units/Commander.cfg:36
+msgid "blade"
 msgstr ""
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
@@ -113,14 +107,6 @@ msgstr ""
 "A legendák egy tengerben élő, vízi életmódhoz szokott törp kolóniáról "
 "mesélnek. Természetesen, valószínűleg senki se hisz az ilyen nevetséges "
 "történetekben."
-
-#: Mystery_Campaign/units/Merdwarf.cfg:21
-msgid "impact"
-msgstr "páncéltörés"
-
-#: Mystery_Campaign/units/Skeletal_Dragon.cfg:73
-msgid "blade"
-msgstr ""
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
@@ -145,6 +131,9 @@ msgstr "Ó, ez reménytelen! Megadom magam!"
 #: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "Az ellenfeled feladta az összecsapást!"
+
+#~ msgid "impact"
+#~ msgstr "páncéltörés"
 
 #~ msgid "Easy"
 #~ msgstr "Könnyű"
