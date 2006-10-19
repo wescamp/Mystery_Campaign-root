@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 01:05+0200\n"
+"POT-Creation-Date: 2006-10-19 02:10+0200\n"
 "PO-Revision-Date: 2005-05-03 22:43+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,10 +30,21 @@ msgid ""
 msgstr ""
 
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
+#: Mystery_Campaign/units/Cockatrice.cfg:4
 msgid "Cockatrice"
 msgstr ""
 
-#: Mystery_Campaign/factions/rebels.cfg:22
+#: Mystery_Campaign/factions/loyalists.cfg:21
+#: Mystery_Campaign/factions/rebels.cfg:21
+#: Mystery_Campaign/units/Elder_Mage.cfg:4
+msgid "Elder Mage"
+msgstr ""
+
+#: Mystery_Campaign/factions/loyalists.cfg:22
+msgid "Battle Princess"
+msgstr ""
+
+#: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
 msgid "Lord"
 msgstr ""
 
@@ -42,11 +53,18 @@ msgid "Elvish Marshal"
 msgstr ""
 
 #: Mystery_Campaign/factions/rebels.cfg:28
+#: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
 msgid "Elvish High Lord"
 msgstr ""
 
 #: Mystery_Campaign/factions/rebels.cfg:29
+#: Mystery_Campaign/units/Elvish_Lord.cfg:4
 msgid "Elvish Lord"
+msgstr ""
+
+#: Mystery_Campaign/factions/undead.cfg:43
+#: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
+msgid "Skeletal Dragon"
 msgstr ""
 
 #: Mystery_Campaign/factions_config.cfg:20
@@ -71,7 +89,46 @@ msgid ""
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
 
-#: Mystery_Campaign/units/Commander.cfg:29
+#: Mystery_Campaign/units/Battle_Princess.cfg:4
+msgid "female^Battle Princess"
+msgstr ""
+
+#: Mystery_Campaign/units/Battle_Princess.cfg:31
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals, and battle tactics with the greatest sages, making her both a "
+"great combatant and leader. Now battle-hardened and strong of will, she can "
+"now aid those around her in the art of combat."
+msgstr ""
+
+#: Mystery_Campaign/units/Battle_Princess.cfg:34
+#: Mystery_Campaign/units/Princess.cfg:35
+msgid "sabre"
+msgstr ""
+
+#: Mystery_Campaign/units/Chocobone.cfg:4
+msgid "Chocobone"
+msgstr ""
+
+#: Mystery_Campaign/units/Chocobone.cfg:20
+msgid ""
+"Riding the bones of ostrich-like large birds once used as mounts by a lost "
+"civilization, the skeletal Chocobones can move faster than most cavalry "
+"units."
+msgstr ""
+
+#: Mystery_Campaign/units/Cockatrice.cfg:17
+msgid ""
+"Sometimes known as 'basilisks', these mystical creatures are said to be able "
+"to turn the living to stone. Needless to say, this makes them extremely "
+"dangerous."
+msgstr ""
+
+#: Mystery_Campaign/units/Cockatrice.cfg:20
+msgid "gaze"
+msgstr ""
+
+#: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
 "The rank of Commander is held by those who lead battle groups into combat. "
 "Possessing leadership skills, they give lower-level units in adjacent hexes "
@@ -80,8 +137,45 @@ msgid ""
 "lost, so is the battle."
 msgstr ""
 
-#: Mystery_Campaign/units/Commander.cfg:36
-msgid "blade"
+#: Mystery_Campaign/units/Elder_Mage.cfg:23
+msgid ""
+"Once great, Elder Magi have seen their power a little diminished from "
+"wearying years of battle. Nevertheless they remain feared on the battlefield "
+"on account of their powerful lightning bolts."
+msgstr ""
+
+#: Mystery_Campaign/units/Elvish_High_Lord.cfg:19
+msgid ""
+"The leaders of the elves do not fall sallow and frail with age. Rather, it "
+"is then that they grow to their true potential. Quiet and contemplative in "
+"times of peace, a High Lord in the full of his wrath is an awesome sight "
+"indeed."
+msgstr ""
+
+#: Mystery_Campaign/units/Elvish_Lord.cfg:18
+msgid ""
+"The nobility of the elves are possessed of merit to match their standing in "
+"society. Elvish Lords are the wisest and strongest of their people, and are "
+"fearsome in their command of magic."
+msgstr ""
+
+#: Mystery_Campaign/units/Fighter.cfg:4
+msgid "Fighter"
+msgstr ""
+
+#: Mystery_Campaign/units/Fighter.cfg:18
+msgid ""
+"Young and brash, Fighters fight with a sword, and are vulnerable to attack "
+"from enemies. However they have the potential to become great warriors one "
+"day."
+msgstr ""
+
+#: Mystery_Campaign/units/Lord.cfg:29
+msgid ""
+"The noble leaders of many troops, Lords are especially strong in melee "
+"combat, and also possess skill with the bow. Like Commanders, Lords possess "
+"leadership skills, and improve the fighting ability of all adjacent lower-"
+"level units."
 msgstr ""
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
@@ -93,6 +187,30 @@ msgid ""
 "Legends tell of dwarves who took to the sea, and adapted to life "
 "underwater.  Of course, no-one could possibly believe such a ridiculous "
 "story."
+msgstr ""
+
+#: Mystery_Campaign/units/Princess.cfg:32
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals and battle tactics with the greatest sages, making her both a great "
+"combatant and leader. The units of lower level around the Princess will "
+"fight better due to her presence. The Princess is also nimble and dextrous, "
+"having skills like that of a thief."
+msgstr ""
+
+#: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
+msgid ""
+"Long ago one of the mightiest living creatures, the feared Dragon has become "
+"only bones and dark sinew. Long after its death, it was raised through the "
+"dark powers of necromancy, which it now serves. The Skeletal Dragon may look "
+"like nothing more than a pile of bones, but few people who thought that way "
+"lived long enough to change their minds."
+msgstr ""
+
+#: Mystery_Campaign/units/Vampire_Lady.cfg:22
+msgid ""
+"Cold and beautiful, she maintains her eternal youthful appearance drinking "
+"the blood of the living."
 msgstr ""
 
 #: Mystery_Campaign/utils/config.cfg:24
