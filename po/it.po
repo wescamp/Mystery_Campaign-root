@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-19 02:10+0200\n"
-"PO-Revision-Date: 2006-06-28 13:40+0100\n"
+"PO-Revision-Date: 2006-10-20 17:01+0100\n"
 "Last-Translator: RokStar <rokstar123@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -28,50 +28,50 @@ msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
 msgstr ""
-"Questa è una campagna casuale infinitamente lunga. Man mano che giochi la "
-"difficoltà aumenta in vari modi. Quanti scenari riuscirai a completare?"
+"Questa è una campagna casuale senza fine. Man mano che giochi la difficoltà "
+"aumenta sotto diversi aspetti. Quanti scenari riuscirai a completare?"
 
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Cockatrice"
 
 #: Mystery_Campaign/factions/loyalists.cfg:21
 #: Mystery_Campaign/factions/rebels.cfg:21
 #: Mystery_Campaign/units/Elder_Mage.cfg:4
 msgid "Elder Mage"
-msgstr ""
+msgstr "Mago anziano"
 
 #: Mystery_Campaign/factions/loyalists.cfg:22
 msgid "Battle Princess"
-msgstr ""
+msgstr "Principessa guerriera"
 
 #: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
 msgid "Lord"
-msgstr ""
+msgstr "Signore"
 
 #: Mystery_Campaign/factions/rebels.cfg:23
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Elfo colonnello"
 
 #: Mystery_Campaign/factions/rebels.cfg:28
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr ""
+msgstr "Gran signore degli elfi"
 
 #: Mystery_Campaign/factions/rebels.cfg:29
 #: Mystery_Campaign/units/Elvish_Lord.cfg:4
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Elfo signore"
 
 #: Mystery_Campaign/factions/undead.cfg:43
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr ""
+msgstr "Drago scheletrico"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr ""
+msgstr "Draghi"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Principessa guerriera"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:31
 msgid ""
@@ -112,11 +112,11 @@ msgstr ""
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
 msgid "sabre"
-msgstr ""
+msgstr "sciabola"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Cavalcatore d'ossa"
 
 #: Mystery_Campaign/units/Chocobone.cfg:20
 msgid ""
@@ -134,7 +134,7 @@ msgstr ""
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
 msgid "gaze"
-msgstr ""
+msgstr "sguardo"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -168,9 +168,8 @@ msgid ""
 msgstr ""
 
 #: Mystery_Campaign/units/Fighter.cfg:4
-#, fuzzy
 msgid "Fighter"
-msgstr "Incubo"
+msgstr "Guerriero"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
 msgid ""
