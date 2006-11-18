@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-19 02:10+0200\n"
-"PO-Revision-Date: 2006-05-25 21:52+0100\n"
+"PO-Revision-Date: 2006-11-17 23:44+0100\n"
 "Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none <viliam@bur.sk>\n"
 "MIME-Version: 1.0\n"
@@ -35,44 +35,44 @@ msgstr ""
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Chiméra"
 
 #: Mystery_Campaign/factions/loyalists.cfg:21
 #: Mystery_Campaign/factions/rebels.cfg:21
 #: Mystery_Campaign/units/Elder_Mage.cfg:4
 msgid "Elder Mage"
-msgstr ""
+msgstr "Starší mág"
 
 #: Mystery_Campaign/factions/loyalists.cfg:22
 msgid "Battle Princess"
-msgstr ""
+msgstr "Princezná veliteľka"
 
 #: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
 msgid "Lord"
-msgstr ""
+msgstr "Šľachtic"
 
 #: Mystery_Campaign/factions/rebels.cfg:23
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Elf maršal"
 
 #: Mystery_Campaign/factions/rebels.cfg:28
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr ""
+msgstr "Elf veľmož"
 
 #: Mystery_Campaign/factions/rebels.cfg:29
 #: Mystery_Campaign/units/Elvish_Lord.cfg:4
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Elf šľachtic"
 
 #: Mystery_Campaign/factions/undead.cfg:43
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr ""
+msgstr "Kostlivý drak"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr ""
+msgstr "Jašteri"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
@@ -100,7 +100,7 @@ msgstr ""
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Princezná veliteľka"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:31
 msgid ""
@@ -109,15 +109,19 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Princezná je vznešeného pôvodu. Umenie meča sa učila od najlepších generálov "
+"a bojovú taktiku od najväčších mudrcov, čo z nej robí dobrého bojovníka i "
+"veliteľa. Je zocelená bojom a má pevnú vôľu. Dokáže pomáhať v bojovom umení "
+"okolitým jednotkám."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
 msgid "sabre"
-msgstr ""
+msgstr "šabľa"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Čokobon"
 
 #: Mystery_Campaign/units/Chocobone.cfg:20
 msgid ""
@@ -125,6 +129,9 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Kostliví čokoboni jazdia na kostrách pštrosovitých vtákov, ktorých kedysi "
+"používala na jazdenie zaniknutá civilizácia. Čokoboni sú rýchlejší ako "
+"väčšina jazdeckých jednotiek."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:17
 msgid ""
@@ -132,10 +139,12 @@ msgid ""
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Tieto mýtické tvory nazývané aj 'baziliškovia' majú vraj schopnosť premeniť "
+"živého tvora na kameň. Netreba zvlášť zdôrazňovať, že sú extrémne nebezpečné."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
 msgid "gaze"
-msgstr ""
+msgstr "pohľad"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -145,6 +154,10 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"Hodnosť veliteľa majú tí, ktorí vedú jednotky do boja. Vďaka svojim "
+"vodcovským schopnostiam zvyšujú bojový výkon jednotiek na nižšej úrovni na "
+"políčkach vedľa veliteľa.Veliteľ je najšikovnejší s mečom, ale keď treba, "
+"dokáže použiť aj luk. Ak padne veliteľ, bitka je stratená."
 
 #: Mystery_Campaign/units/Elder_Mage.cfg:23
 msgid ""
@@ -152,6 +165,9 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Starší mág bol kedysi veľkým mágom a stále si uchoval väčšinu sily, aj keď "
+"roky mu už niečo ubrali. Vďaka mocným bleskom sa staršieho mága obávajú na "
+"bojisku všetci nepriatelia."
 
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:19
 msgid ""
@@ -160,6 +176,9 @@ msgid ""
 "times of peace, a High Lord in the full of his wrath is an awesome sight "
 "indeed."
 msgstr ""
+"Velitelia elfov s pribúdajúcim vekom neslabnú. Naopak, dorastajú do svojho "
+"pravého potenciálu. Veľmož je v časoch mieru tichí a rozjímavý, ale keď sa "
+"rozhnevá, je naňho úžasný pohľad."
 
 #: Mystery_Campaign/units/Elvish_Lord.cfg:18
 msgid ""
@@ -167,11 +186,13 @@ msgid ""
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
 msgstr ""
+"Elfia šľachta si plne zaslúži svoje spoločenské postavenie. Elfí šľachtici "
+"sú najmúdrejší a najsilnejší zo svojho ľudu, a ich magické schopnosti ich "
+"robia obávanými."
 
 #: Mystery_Campaign/units/Fighter.cfg:4
-#, fuzzy
 msgid "Fighter"
-msgstr "Nočná mora"
+msgstr "Vojak"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
 msgid ""
@@ -179,6 +200,9 @@ msgid ""
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
+"Vojak je cvičený používať v boji meč. Je mladý a horlivý, zraniteľný "
+"nepriateľským útokom. Má však schopnosti stať sa jedného dňa veľkým "
+"bojovníkom."
 
 #: Mystery_Campaign/units/Lord.cfg:29
 msgid ""
@@ -187,6 +211,9 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Šľachtic je vznešeným vodcom armád, zvlášť zručný v boji nablízko, ale je "
+"šikovný aj s lukom. Podobne ako veliteľ, aj šľachtic má vodcovské schopnosti "
+"a pomáha jednotkám nižšej úrovne na susedných políčkach."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
@@ -209,6 +236,10 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
+"Princezná je vznešeného pôvodu. Umenie meča sa učila od najlepších generálov "
+"a bojovú taktiku od najväčších mudrcov, čo z nej robí dobrého bojovníka i "
+"veliteľa. Jednotky nižšej úrovne v prítomnosti princeznej bojujú lepšie. "
+"Princezná je hybká a obratná, čo jej dáva schopnosti podobné zlodejským."
 
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
 msgid ""
@@ -218,12 +249,19 @@ msgid ""
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
 msgstr ""
+"Z pradávneho najmocnejšieho živého tvora, obávaného draka, zostali iba kosti "
+"a tmavé šľachy. Po dlhej dobe ho zo spánku smrti prebrali temné "
+"černokňažnícke sily, ktorým dnes slúži. Kostlivý drak sa možno na prvý "
+"pohľad neodlišuje od hromady kostí, ale iba máloktorí sa stihli prizrieť "
+"pozornejšie."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
 msgid ""
 "Cold and beautiful, she maintains her eternal youthful appearance drinking "
 "the blood of the living."
 msgstr ""
+"Chladná a nádherná kráľovná si udržiava svoj večne mladý výzor pitím krvi "
+"živých."
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
