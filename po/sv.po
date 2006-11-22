@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-19 02:10+0200\n"
-"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"PO-Revision-Date: 2006-11-21 23:09+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
@@ -36,44 +36,44 @@ msgstr ""
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Basilisk"
 
 #: Mystery_Campaign/factions/loyalists.cfg:21
 #: Mystery_Campaign/factions/rebels.cfg:21
 #: Mystery_Campaign/units/Elder_Mage.cfg:4
 msgid "Elder Mage"
-msgstr ""
+msgstr "Åldrad magiker"
 
 #: Mystery_Campaign/factions/loyalists.cfg:22
 msgid "Battle Princess"
-msgstr ""
+msgstr "Stridsprinsessa"
 
 #: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
 msgid "Lord"
-msgstr ""
+msgstr "Furste"
 
 #: Mystery_Campaign/factions/rebels.cfg:23
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Alvöverste"
 
 #: Mystery_Campaign/factions/rebels.cfg:28
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr ""
+msgstr "Alvstorfurste"
 
 #: Mystery_Campaign/factions/rebels.cfg:29
 #: Mystery_Campaign/units/Elvish_Lord.cfg:4
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Alvfurste"
 
 #: Mystery_Campaign/factions/undead.cfg:43
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr ""
+msgstr "Skelettdrake"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr ""
+msgstr "Drakfolket"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
@@ -102,7 +102,7 @@ msgstr ""
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Stridsprinsessa"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:31
 msgid ""
@@ -111,15 +111,19 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Prinsessan är av ädel börd, och har utbildats i svärdskonst av de största "
+"generalerna och i strategi av de största tänkarna. Genom denna utbildning "
+"har hon blivit en stor krigare och ledare. Viljestark och härdad av strider "
+"leder hon trupperna omkring henne i stridens hetta."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
 msgid "sabre"
-msgstr ""
+msgstr "sabel"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Benryttare"
 
 #: Mystery_Campaign/units/Chocobone.cfg:20
 msgid ""
@@ -127,6 +131,9 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Dessa skelettkrigare rider på benen av enorma fåglar, vilka tros ha använts "
+"av en uråldrig civilisation, och kan röra sig snabbare än de flesta "
+"kavalleritrupper."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:17
 msgid ""
@@ -134,10 +141,12 @@ msgid ""
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Dessa mystiska varelser sägs kunna förstena sina offer. Utan tvekan gör "
+"detta dem extremt farliga."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
 msgid "gaze"
-msgstr ""
+msgstr "blick"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -147,6 +156,10 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"Den som leder härar i strid kallas för befälhavare. Hans goda "
+"ledarskapsförmåga får närliggande trupper av lägre rang att slåss bättre. "
+"Han slåss själv helst med sitt svärd, men har också en båge om så behövs. Om "
+"befälhavaren besegras är striden förlorad."
 
 #: Mystery_Campaign/units/Elder_Mage.cfg:23
 msgid ""
@@ -154,6 +167,9 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"En gång stor har den åldrade magikern fått se sin kraft försvagad av många "
+"tröttande år av strid. Den vördnadsvärde magikern är dock fortfarande "
+"fruktad på stridsfältet för sina mäktiga åskviggars skull."
 
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:19
 msgid ""
@@ -162,6 +178,10 @@ msgid ""
 "times of peace, a High Lord in the full of his wrath is an awesome sight "
 "indeed."
 msgstr ""
+"Alvernas ledare träder aldrig in i ålderdom och glömska, utan det är ofta "
+"med åldern som deras kunskap och makt når sin fullbordan. I fredstider är "
+"alvstorfurstarnas lugn och kontemplativa sinnelag ett ideal som få kan "
+"uppnå, men i fullt vredesmod blir de verkligt imponerande."
 
 #: Mystery_Campaign/units/Elvish_Lord.cfg:18
 msgid ""
@@ -169,11 +189,13 @@ msgid ""
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
 msgstr ""
+"Alvernas adel äger en lika stor kunskap som deras ställning kräver. "
+"Alvfurstarna är de visaste och starkaste bland deras folk, och fruktas bland "
+"andra raser för deras kunskaper i magi."
 
 #: Mystery_Campaign/units/Fighter.cfg:4
-#, fuzzy
 msgid "Fighter"
-msgstr "Mardröm"
+msgstr "Krigare"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
 msgid ""
@@ -181,6 +203,9 @@ msgid ""
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
+"Den unge och obetänksamme krigaren slåss med ett svärd, och är sårbar för "
+"attacker från fienden. Han besitter dock talang och lyckas han bara hålla "
+"sig levande så kan han bli en mäktig krigare en dag."
 
 #: Mystery_Campaign/units/Lord.cfg:29
 msgid ""
@@ -189,6 +214,10 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Fursten är den adlige ledaren för stora mängder trupper. Han är särskilt "
+"stark i närstrid, men inte heller oäven med bågen. Liksom befälhavare har "
+"furstar ledarskapsförmåga, och förbättrar stridsförmågan hos alla lägre "
+"rankade trupper i närheten."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
@@ -212,6 +241,11 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
+"Prinsessan är av ädel börd, och har utbildats i svärdskonst av de största "
+"generalerna och i strategi av de största tänkarna. Detta har fått henne att "
+"bli både en utsökt krigare och ledare. Lägre rankade trupper runt omkring "
+"Prinsessan inspireras av hennes närvaro och kämpar bättre. Prinsessan är "
+"både flink och smidig, och har tjuvliknande färdigheter."
 
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
 msgid ""
@@ -221,12 +255,19 @@ msgid ""
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
 msgstr ""
+"En gång i tiden de mäktigaste av de levande varelserna har den fruktade "
+"draken blivit blott ben och senor. Lång tid efter dess död blev den uppväckt "
+"från de döda genom nekromantins mörka krafter, som den nu tjänar under. "
+"Skelettdraken ser kanske ut som en benhög, men få är de som har levt länge "
+"nog för att komma bättre tankar."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
 msgid ""
 "Cold and beautiful, she maintains her eternal youthful appearance drinking "
 "the blood of the living."
 msgstr ""
+"Sval och vacker bibehåller hon sitt ungdomliga utseende genom att dricka de "
+"levandes blod."
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
@@ -251,24 +292,3 @@ msgstr "Nej, det är hopplöst! Jag ger upp!"
 #: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
 msgstr "Din fiende har kapitulerat!"
-
-#~ msgid "impact"
-#~ msgstr "kross"
-
-#~ msgid "Easy"
-#~ msgstr "Lätt"
-
-#, fuzzy
-#~ msgid "What funding level do you want for the campaign?"
-#~ msgstr "Vilken fraktion vill du spela?"
-
-#, fuzzy
-#~ msgid "Enemy leader surrenders"
-#~ msgstr "Din fiende har kapitulerat!"
-
-#, fuzzy
-#~ msgid "Your leader surrenders"
-#~ msgstr "Din fiende har kapitulerat!"
-
-#~ msgid "fist"
-#~ msgstr "knytnäve"
