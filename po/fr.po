@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-19 02:10+0200\n"
-"PO-Revision-Date: 2005-11-27 11:26+0100\n"
-"Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
+"PO-Revision-Date: 2006-11-29 17:01+0100\n"
+"Last-Translator: Gérard Bodin <gerard.bodin@etu.univ-lille3.fr>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +21,7 @@ msgstr "Pas si facile"
 
 #: Mystery_Campaign.cfg:23
 msgid "Nightmare"
-msgstr "Cauchemard"
+msgstr "Cauchemar"
 
 #: Mystery_Campaign.cfg:25
 msgid ""
@@ -34,49 +34,58 @@ msgstr ""
 
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
+#, fuzzy
 msgid "Cockatrice"
-msgstr ""
+msgstr "Cocatris"
 
 #: Mystery_Campaign/factions/loyalists.cfg:21
 #: Mystery_Campaign/factions/rebels.cfg:21
 #: Mystery_Campaign/units/Elder_Mage.cfg:4
+#, fuzzy
 msgid "Elder Mage"
-msgstr ""
+msgstr "Mage vénérable"
 
 #: Mystery_Campaign/factions/loyalists.cfg:22
+#, fuzzy
 msgid "Battle Princess"
-msgstr ""
+msgstr "Princesse guerrière"
 
 #: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
+#, fuzzy
 msgid "Lord"
-msgstr ""
+msgstr "Seigneur"
 
 #: Mystery_Campaign/factions/rebels.cfg:23
+#, fuzzy
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Maréchal elfe"
 
 #: Mystery_Campaign/factions/rebels.cfg:28
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
+#, fuzzy
 msgid "Elvish High Lord"
-msgstr ""
+msgstr "Haut seigneur elfe"
 
 #: Mystery_Campaign/factions/rebels.cfg:29
 #: Mystery_Campaign/units/Elvish_Lord.cfg:4
+#, fuzzy
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Seigneur elfe"
 
 #: Mystery_Campaign/factions/undead.cfg:43
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
+#, fuzzy
 msgid "Skeletal Dragon"
-msgstr ""
+msgstr "Dragon squelette"
 
 #: Mystery_Campaign/factions_config.cfg:20
+#, fuzzy
 msgid "Drakes"
-msgstr ""
+msgstr "Drakes"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
-msgstr "Humains Chaotiques"
+msgstr "Humains chaotiques"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
@@ -93,51 +102,71 @@ msgid ""
 msgstr ""
 "Salutations, $player_leader|, bienvenue au scénario $scenario_number|.\n"
 "\n"
-"J'ai $gold pièces d'or, et mon armée de $enemy_faction comprends les types "
+"J'ai $gold pièces d'or, et mon armée de $enemy_faction comprend les types "
 "d'unités suivants : $enemy_recruits|.\n"
 "\n"
 "Pour réussir ce scénario, vous devez me vaincre, ou me forcer à me rendre !"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
+#, fuzzy
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Princesse guerrière"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:31
+#, fuzzy
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals, and battle tactics with the greatest sages, making her both a "
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Noble par naissance, la Princesse a appris le maniement de l'épée avec les "
+"plus grands généraux, et la tactique avec les plus grands sages, ce qui fait "
+"d'elle à la fois une combattante valeureuse et une meneuse respectée. "
+"Maintenant rompue au combat et d'une volonté inflexible, elle peut faire "
+"profiter ceux qui l'entourent de sa maîtrise de l'épée."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
+#, fuzzy
 msgid "sabre"
-msgstr ""
+msgstr "sabre"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
+#, fuzzy
 msgid "Chocobone"
-msgstr ""
+msgstr "Chocob'os"
 
 #: Mystery_Campaign/units/Chocobone.cfg:20
+#, fuzzy
 msgid ""
 "Riding the bones of ostrich-like large birds once used as mounts by a lost "
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"En chevauchant les os de grands oiseaux semblables à des autruches qui "
+"étaient autrefois des montures pour une civilisation perdue, les Chocob'os "
+"squelettiques peuvent se déplacer plus rapidement que la plupart des unités "
+"de cavalerie."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:17
+#, fuzzy
 msgid ""
 "Sometimes known as 'basilisks', these mystical creatures are said to be able "
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"On dit de ces créatures mystiques, parfois mieux connues sous le nom de "
+"\"basilics\", qu'elles sont capables de pétrifier les êtres vivants. Inutile "
+"de dire que cela les rend extrêmement dangereuses."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
+#, fuzzy
 msgid "gaze"
-msgstr ""
+msgstr "regard"
 
 #: Mystery_Campaign/units/Commander.cfg:30
+#, fuzzy
 msgid ""
 "The rank of Commander is held by those who lead battle groups into combat. "
 "Possessing leadership skills, they give lower-level units in adjacent hexes "
@@ -145,52 +174,80 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"Le rang de Commandant est détenu par ceux qui mènent les troupes au combat. "
+"Grâce à leurs talents de meneur, ils donnent aux unités de niveau inférieur "
+"dans les hexagones adjacents de meilleures performances au combat. Les "
+"Commandants sont plus doués avec l'épée, bien qu'ils peuvent également "
+"porter un arc au cas où. Si le Commandant est perdu, alors la bataille l'est "
+"aussi."
 
 #: Mystery_Campaign/units/Elder_Mage.cfg:23
+#, fuzzy
 msgid ""
 "Once great, Elder Magi have seen their power a little diminished from "
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Autrefois redoutables, les Mages vénérables ont vu leur pouvoir un peu "
+"diminuer au fil des années de bataille. Ils restent néanmoins craints sur le "
+"champ de bataille à cause de leurs puissants éclairs."
 
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:19
+#, fuzzy
 msgid ""
 "The leaders of the elves do not fall sallow and frail with age. Rather, it "
 "is then that they grow to their true potential. Quiet and contemplative in "
 "times of peace, a High Lord in the full of his wrath is an awesome sight "
 "indeed."
 msgstr ""
+"Les meneurs elfes ne subissent pas les effets négatifs du vieillissement. En "
+"fait, l'âge leur permet d'acquérir tout leur vrai potentiel. Calme et "
+"contemplatif en temps de paix, un Haut seigneur en pleine fureur est "
+"impressionnant à voir."
 
 #: Mystery_Campaign/units/Elvish_Lord.cfg:18
+#, fuzzy
 msgid ""
 "The nobility of the elves are possessed of merit to match their standing in "
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
 msgstr ""
+"La noblesse des elfes est liée au mérite à tenir leur rang en société. Les "
+"Seigneurs elfes sont les plus sages et les plus forts de leur peuple, et "
+"sont effrayants dans leur maîtrise de la magie."
 
 #: Mystery_Campaign/units/Fighter.cfg:4
 #, fuzzy
 msgid "Fighter"
-msgstr "Cauchemard"
+msgstr "Guerrier"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
+#, fuzzy
 msgid ""
 "Young and brash, Fighters fight with a sword, and are vulnerable to attack "
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
+"Jeunes et bravaches, les Guerriers combattent avec une épée, et sont "
+"vulnérables aux attaques des ennemis. Cependant ils ont le potentiel pour "
+"devenir un jour de grands guerriers."
 
 #: Mystery_Campaign/units/Lord.cfg:29
+#, fuzzy
 msgid ""
 "The noble leaders of many troops, Lords are especially strong in melee "
 "combat, and also possess skill with the bow. Like Commanders, Lords possess "
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Nobles meneurs de nombreuses troupes, les Seigneurs sont particulièrement "
+"forts au combat au corps à corps, et sont aussi doués avec l'arc. Comme les "
+"Commandants, les Seigneurs ont des talents de meneur, et améliorent la "
+"capacité au combat de toutes les unités adjacentes de niveau inférieur."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
-msgstr "Nain Ondin"
+msgstr "Nain ondin"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
 msgid ""
@@ -198,11 +255,12 @@ msgid ""
 "underwater.  Of course, no-one could possibly believe such a ridiculous "
 "story."
 msgstr ""
-"Des légendes parlent de nains qui ont pris la mer, et se sont adaptés à la "
-"vie sous-marine. Évidemment, personne ne peut croire à une histoire aussi "
+"Des légendes parlent de nains qui ont pris la mer, et qui se sont adaptés à "
+"la vie sous-marine. Évidemment, personne ne peut croire à une histoire aussi "
 "ridicule."
 
 #: Mystery_Campaign/units/Princess.cfg:32
+#, fuzzy
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals and battle tactics with the greatest sages, making her both a great "
@@ -210,8 +268,15 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
+"Noble par naissance, la Princesse a appris le maniement de l'épée avec les "
+"plus grands généraux et la tactique avec les plus grands sages, ce qui fait "
+"d'elle à la fois une combattante valeureuse et une meneuse respectée. Les "
+"unités de niveau inférieur autour de la Princesse se batteront mieux en sa "
+"présence. La Princesse est également preste et adroite, avec des qualités "
+"similaires à celles d'un voleur."
 
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
+#, fuzzy
 msgid ""
 "Long ago one of the mightiest living creatures, the feared Dragon has become "
 "only bones and dark sinew. Long after its death, it was raised through the "
@@ -219,12 +284,21 @@ msgid ""
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
 msgstr ""
+"Il y a longtemps une des plus puissantes créatures vivantes, le Dragon "
+"redouté n'est devenu qu'os et muscles noircis. Longtemps après sa mort, il a "
+"été rappelé au moyen des pouvoirs sombres de la nécromancie, qu'il sert "
+"maintenant. Le Dragon squelette peut n'avoir l'air de rien d'autre qu'un tas "
+"d'os, mais peu parmi ceux qui ont pensé ainsi ont vécu assez longtemps pour "
+"changer d'avis."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
+#, fuzzy
 msgid ""
 "Cold and beautiful, she maintains her eternal youthful appearance drinking "
 "the blood of the living."
 msgstr ""
+"Froide et belle, elle conserve son apparence d'éternelle jeunesse en buvant "
+"le sang des vivants."
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
@@ -232,7 +306,7 @@ msgstr "Avec quelle faction voulez-vous jouer :"
 
 #: Mystery_Campaign/utils/config.cfg:26
 msgid "&random-enemy.png=Pick one for me!"
-msgstr "$random-enemy.png=Choisis-en une pour moi !"
+msgstr "&random-enemy.png=Choisis-en une pour moi !"
 
 #: Mystery_Campaign/utils/config.cfg:64
 msgid "What type of unit should your leader be?"
