@@ -1,15 +1,18 @@
+# translation of cs.po to Czech
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-19 02:10+0200\n"
-"PO-Revision-Date: 2005-10-05 01:23+0100\n"
-"Last-Translator: Lukas Faltynek <lukas.faltynek@seznam.cz>\n"
-"Language-Team: Czech Team <wesnoth-cs-l@buchtovi.cz>\n"
+"PO-Revision-Date: 2006-12-05 22:15+0100\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
@@ -34,44 +37,44 @@ msgstr ""
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Bazilišek"
 
 #: Mystery_Campaign/factions/loyalists.cfg:21
 #: Mystery_Campaign/factions/rebels.cfg:21
 #: Mystery_Campaign/units/Elder_Mage.cfg:4
 msgid "Elder Mage"
-msgstr ""
+msgstr "Starý mág"
 
 #: Mystery_Campaign/factions/loyalists.cfg:22
 msgid "Battle Princess"
-msgstr ""
+msgstr "Princezna boje"
 
 #: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
 msgid "Lord"
-msgstr ""
+msgstr "Lord"
 
 #: Mystery_Campaign/factions/rebels.cfg:23
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Elfí maršál"
 
 #: Mystery_Campaign/factions/rebels.cfg:28
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr ""
+msgstr "Vysoký elfí lord"
 
 #: Mystery_Campaign/factions/rebels.cfg:29
 #: Mystery_Campaign/units/Elvish_Lord.cfg:4
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Elfí lord"
 
 #: Mystery_Campaign/factions/undead.cfg:43
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr ""
+msgstr "Kostlivý drak"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr ""
+msgstr "Draci"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
@@ -99,7 +102,7 @@ msgstr ""
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Princezna boje"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:31
 msgid ""
@@ -108,15 +111,19 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Vznešená rodem, se princezna učila boji s mečem proti nejlepším "
+"generálům a válečné taktice od těch nejmoudřejších, což jí dělá výtečnou "
+"bojovnicí a vůdkyní. Zocelená bojem a se silnou vůlí má nyní schopnost "
+"ovlivňovat okolní jednotky v jejich umění boje."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
 msgid "sabre"
-msgstr ""
+msgstr "šavle"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Kostipštros"
 
 #: Mystery_Campaign/units/Chocobone.cfg:20
 msgid ""
@@ -124,6 +131,9 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Kostlivčí kostipštrosi se dokáží pohybovat rychleji než většina jízdních "
+"jednotek, jedouce na kostech velikých ptáků podobných pštrosům, které "
+"ztracená civilizace kdysi využívala jako jízdu."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:17
 msgid ""
@@ -131,10 +141,12 @@ msgid ""
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Jsou to záhadná stvoření o kterých se říká, že mohou přeměnit živého na "
+"kámen. Je zbytečné zdůrazňovat, že mohou být extrémně nebezpeční."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
 msgid "gaze"
-msgstr ""
+msgstr "pohled"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -144,6 +156,10 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"Hodnost velitele mají ti, kteří vedou jednotky do boje. Díky svým vůdcovským "
+"schopnostem zvyšují na sousedních polích bojový výkon jednotek nižší úrovně. "
+"Velitel zachází nejzručněji s mečem, ale když je třeba, dokáže použít i luk. "
+"Padne-li velitel, je boj ztracen."
 
 #: Mystery_Campaign/units/Elder_Mage.cfg:23
 msgid ""
@@ -151,6 +167,9 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Starý mág byl kdysi velkým mágem, ale únavné roky bitev mu už něco sil "
+"ubraly. Na bitevním poli je nicméně pro své mocné blesky stále obávaným "
+"protivníkem."
 
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:19
 msgid ""
@@ -159,6 +178,9 @@ msgid ""
 "times of peace, a High Lord in the full of his wrath is an awesome sight "
 "indeed."
 msgstr ""
+"Vůdcové elfů s rostoucím věkem neblednou ani neslábnou. Místo toho dosahují "
+"svého skutečného potenciálu. Klidný a rozjímající v dobách míru, rozhněvaný "
+"Vysoký lord je vskutku strašlivý a hrůzu nahánějící pohled."
 
 #: Mystery_Campaign/units/Elvish_Lord.cfg:18
 msgid ""
@@ -166,11 +188,13 @@ msgid ""
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
 msgstr ""
+"Elfí šlechta si svoje postavení ve společnosti plně zasluhuje. Elfí lordi "
+"jsou nejmoudřejšími a nejsilnějšími ze všech elfů a jejich schopnost "
+"ovládání magie nahání hrůzu."
 
 #: Mystery_Campaign/units/Fighter.cfg:4
-#, fuzzy
 msgid "Fighter"
-msgstr "Noční můra"
+msgstr "Bojovník"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
 msgid ""
@@ -178,6 +202,9 @@ msgid ""
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
+"Mladí a neomalení, Bojovníci používají k boji meč, vůči útokům nepřátelských "
+"jednotek jsou zranitelní. Dřímá v nich však potenciál stát se jednoho dne "
+"velkými válečníky."
 
 #: Mystery_Campaign/units/Lord.cfg:29
 msgid ""
@@ -186,6 +213,10 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Urození vůdci mnoha jednotek, lordi, jsou obzvlášť silní v boji na blízko a "
+"také dokáží střílet z luku. Lordi, stejně jako Velitelé, mají vůdcovské "
+"schopnosti a zdokonalují bojové schopnosti všech jednotek na nižší úrovni, "
+"které jsou v jejich blízkosti."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
@@ -209,6 +240,11 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
+"Princezna, urozená svým původem, se učila šermířskému umění od "
+"nejlepších generálů a bojovou taktiku od těch nejmoudřejších a stala se jak "
+"dobrou bojovnicí tak dobrým vůdcem. Jednotky s nižší úrovní než princezna "
+"budou bojovat lépe už jen díky její blízkosti. Princezna je také hbitá a "
+"pružná a svými dovednostmi předčí mnohé zloděje."
 
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
 msgid ""
@@ -218,12 +254,20 @@ msgid ""
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
 msgstr ""
+"Z obávaných draků, kteří před dávnými časy byli jedním z nejmocnějších druhů "
+"zvířat, zbyly jen kosti a šlachy. Dlouho po jejich smrti je temné síly "
+"nekromantie přivedli zpátky k životu – těmto silám nyní draci slouží. "
+"Kostlivý drak sice na první pohled vypadá jen jako hromada kostí, ale z "
+"těch, co takto smýšleli, zůstalo jen velice málo naživu dostatečně dlouho, "
+"aby na věc stihli změnit názor."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
 msgid ""
 "Cold and beautiful, she maintains her eternal youthful appearance drinking "
 "the blood of the living."
 msgstr ""
+"Chladná a krásná, svůj věčně mladistvý vzhled udržuje díky popíjení krve "
+"živých."
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
@@ -269,3 +313,4 @@ msgstr "Tvůj nepřítel se vzdal"
 
 #~ msgid "fist"
 #~ msgstr "pěst"
+
