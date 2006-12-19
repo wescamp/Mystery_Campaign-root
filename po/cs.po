@@ -111,10 +111,10 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
-"Vznešená rodem, se princezna učila boji s mečem proti nejlepším "
-"generálům a válečné taktice od těch nejmoudřejších, což jí dělá výtečnou "
-"bojovnicí a vůdkyní. Zocelená bojem a se silnou vůlí má nyní schopnost "
-"ovlivňovat okolní jednotky v jejich umění boje."
+"Vznešená rodem, se princezna učila boji s mečem proti nejlepším generálům a "
+"válečné taktice od těch nejmoudřejších, což jí dělá výtečnou bojovnicí a "
+"vůdkyní. Zocelená bojem a se silnou vůlí má nyní schopnost ovlivňovat okolní "
+"jednotky v jejich umění boje."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
@@ -240,11 +240,11 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
-"Princezna, urozená svým původem, se učila šermířskému umění od "
-"nejlepších generálů a bojovou taktiku od těch nejmoudřejších a stala se jak "
-"dobrou bojovnicí tak dobrým vůdcem. Jednotky s nižší úrovní než princezna "
-"budou bojovat lépe už jen díky její blízkosti. Princezna je také hbitá a "
-"pružná a svými dovednostmi předčí mnohé zloděje."
+"Princezna, urozená svým původem, se učila šermířskému umění od nejlepších "
+"generálů a bojovou taktiku od těch nejmoudřejších a stala se jak dobrou "
+"bojovnicí tak dobrým vůdcem. Jednotky s nižší úrovní než princezna budou "
+"bojovat lépe už jen díky její blízkosti. Princezna je také hbitá a pružná a "
+"svými dovednostmi předčí mnohé zloděje."
 
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
 msgid ""
@@ -313,4 +313,3 @@ msgstr "Tvůj nepřítel se vzdal"
 
 #~ msgid "fist"
 #~ msgstr "pěst"
-
