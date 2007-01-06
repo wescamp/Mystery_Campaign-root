@@ -1,11 +1,17 @@
+# Danish translation of wesnoth-Mystery_Campaign (da.po)
+# Dansk oversættelse for wesnoth-Mystery_Campaign (da.po).
+# Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-19 02:10+0200\n"
-"PO-Revision-Date: 2005-05-03 22:43+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2007-01-01 22:43+0200\n"
+"Last-Translator: Joe Hansen\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,71 +19,74 @@ msgstr ""
 
 #: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
-msgstr ""
+msgstr "Mysteriumskampagnen"
 
 #: Mystery_Campaign.cfg:22
 msgid "Not so easy"
-msgstr ""
+msgstr "Normal"
 
 #: Mystery_Campaign.cfg:23
 msgid "Nightmare"
-msgstr ""
+msgstr "Mareridt"
 
 #: Mystery_Campaign.cfg:25
 msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
 msgstr ""
+"Denne kampagne er uendelig lang og tilfældig. Efterhånden som du spiller "
+"bliver kampagnen på forskellig vis sværere og sværere. Hvor mange scenarier "
+"kan du gennemføre?"
 
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Basilisk"
 
 #: Mystery_Campaign/factions/loyalists.cfg:21
 #: Mystery_Campaign/factions/rebels.cfg:21
 #: Mystery_Campaign/units/Elder_Mage.cfg:4
 msgid "Elder Mage"
-msgstr ""
+msgstr "Erfaren troldmand"
 
 #: Mystery_Campaign/factions/loyalists.cfg:22
 msgid "Battle Princess"
-msgstr ""
+msgstr "Krigsfyrstinde"
 
 #: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
 msgid "Lord"
-msgstr ""
+msgstr "Lensherre"
 
 #: Mystery_Campaign/factions/rebels.cfg:23
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Elvisk marskal"
 
 #: Mystery_Campaign/factions/rebels.cfg:28
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr ""
+msgstr "Elvisk storlensherre"
 
 #: Mystery_Campaign/factions/rebels.cfg:29
 #: Mystery_Campaign/units/Elvish_Lord.cfg:4
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Elvisk lensherre"
 
 #: Mystery_Campaign/factions/undead.cfg:43
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr ""
+msgstr "Skeletdrage"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr ""
+msgstr "Drakere"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
-msgstr ""
+msgstr "Anarkister"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
-msgstr ""
+msgstr "Mysterium scenarie"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
 msgid ""
@@ -88,10 +97,17 @@ msgid ""
 "\n"
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
+"Velkommen, $player_leader|, nu starter scenarie $scenario_number|.\n"
+"\n"
+"Jeg har $gold guldstykker, og min hær af $enemy_faction består af følgende "
+"typer af enheder: $enemy_recruits|. \n"
+"\n"
+"For at fuldføre scenariet, må du besejre mig, eller tvinge mig til "
+"overgivelse!"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Krigsfyrstinde"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:31
 msgid ""
@@ -100,15 +116,19 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Adelig fra fødslen er krigsfyrstinden udlært i sværdkunsten af de største "
+"generaler, og krigstaktik af de største sages, hvilket har gjort hende  til "
+"en dygtig kriger og leder. Med krigserfaring og en stærk vilje kan hun også "
+"hjælpe dem omkring hende i krigskunsten."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
 msgid "sabre"
-msgstr ""
+msgstr "nedsable"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Chocobone"
 
 #: Mystery_Campaign/units/Chocobone.cfg:20
 msgid ""
@@ -116,6 +136,9 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"På ryggen af strudselignende fugle, der tidligere blev tæmmet af en tabt "
+"civilisation, kan skeletchocobonerne ride hurtigere end de fleste "
+"kavalerienheder."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:17
 msgid ""
@@ -123,10 +146,12 @@ msgid ""
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Basilisker, disse mystiske skabninger menes at være i stand til at gøre alt "
+"levende til sten. Dette gør dem - selvfølgelig - ekstremt farlige."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
 msgid "gaze"
-msgstr ""
+msgstr "se stift"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -136,6 +161,10 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"Rangen af kommandør indehaves af de personer som fører krigsenheder i kamp."
+"Med deres lederevner, yder de hjælp til mindre erfarne enheder i tilstødende "
+"felter. Kommandøren er uddannet med sværdet, men bærer også en bue. Hvis "
+"kommandøren dræbes, tabes slaget."
 
 #: Mystery_Campaign/units/Elder_Mage.cfg:23
 msgid ""
@@ -143,6 +172,9 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Engang magtfulde, har de erfarne troldmænd måtte se deres magt formindskes "
+"igennem årtier med kamp. Alligevel er de stadig frygtet på krigsscenen på "
+"grund af deres kraftfulde tordenkiler."
 
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:19
 msgid ""
@@ -151,6 +183,9 @@ msgid ""
 "times of peace, a High Lord in the full of his wrath is an awesome sight "
 "indeed."
 msgstr ""
+"Elvernes ledere ældes ikke. Tværtimod det er med alderen, at de opnår deres "
+"fulde potentiale. Lige så rolig og eftertænksomme de er i fredstid, lige så "
+"frygtindgydende er en elvisk overlensherre i krigstid."
 
 #: Mystery_Campaign/units/Elvish_Lord.cfg:18
 msgid ""
@@ -158,10 +193,13 @@ msgid ""
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
 msgstr ""
+"Anseelsen blandt elverne i deres samfund afspejles i deres status og rang i "
+"samfundet. Elviske lensherrer er de klogeste og stærkeste blandt elverfolket "
+"og de er frygtet for deres brug af magi."
 
 #: Mystery_Campaign/units/Fighter.cfg:4
 msgid "Fighter"
-msgstr ""
+msgstr "Kriger"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
 msgid ""
@@ -169,6 +207,9 @@ msgid ""
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
+"Unge og energifyldte, krigerne kæmper med sværd og er sårbare over for "
+"angreb. De har dog også potentialet til en dag at blive stærke og berømte "
+"krigere. "
 
 #: Mystery_Campaign/units/Lord.cfg:29
 msgid ""
@@ -177,10 +218,14 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Som leder af mange menige er lensherren specielt stærk i nærkamp, og har "
+"også evner indenfor bueskydning. Ligesom kommandører, har lensherrer "
+"lederevner, og forøger dermed lavere rangerende enheders kampevner når de er "
+"placeret omkring lensherren."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
-msgstr ""
+msgstr "Havdværg"
 
 #: Mystery_Campaign/units/Merdwarf.cfg:14
 msgid ""
@@ -188,6 +233,9 @@ msgid ""
 "underwater.  Of course, no-one could possibly believe such a ridiculous "
 "story."
 msgstr ""
+"Sagnene fortæller om dværge som rejste over havet og tilpassede sig et liv "
+"under havoverfladen. Selvfølgelig er der ingen som tror på sådan en fjollet "
+"historie."
 
 #: Mystery_Campaign/units/Princess.cfg:32
 msgid ""
@@ -197,6 +245,11 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
+"Adelig ved fødslen, og derfor uddannet i krigskunsten af de største "
+"generaler og krigstaktik af de største vismænd, har gjort Princess til en "
+"stor kriger og leder. Enheder med lavere rang omkring Princess vil kæmpe "
+"bedre på grund af hendes tilstedeværelse. Princess er også behændig og har "
+"evner som dem, der er udviklet hos tyve."
 
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
 msgid ""
@@ -206,42 +259,39 @@ msgid ""
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
 msgstr ""
+"For lang tid siden blev et af de stærkeste levende skabninger, den frygtede "
+"drage, til kun ben og mørk livsnerve. Lang tid efter dens død, blev den "
+"genskabt igennem mørk magi, som den nu er loyal over for. Skeletdragen ser "
+"ikke ud af meget andet end en bunke af ben, men meget få personer som så den "
+"sådan levede i så lang tid, at de kunne nå at ændre deres opfattelse."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
 msgid ""
 "Cold and beautiful, she maintains her eternal youthful appearance drinking "
 "the blood of the living."
 msgstr ""
+"Kold og smuk, bevarende sin evige ungdom ved at drikke blod fra de levende. "
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
-msgstr ""
+msgstr "Hvilken fraktion ønsker du at spille:"
 
 #: Mystery_Campaign/utils/config.cfg:26
 msgid "&random-enemy.png=Pick one for me!"
-msgstr ""
+msgstr "&random-enemy.png=Vælg en for mig!"
 
 #: Mystery_Campaign/utils/config.cfg:64
 msgid "What type of unit should your leader be?"
-msgstr ""
+msgstr "Hvilken enhedstype skal din leder være?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:176
 msgid "Please don't hurt me! Have you no pity?"
-msgstr ""
+msgstr "Undlad venligst at ydmyge mig! Viser du ingen nåde?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:249
 msgid "Oh, it's hopeless! I surrender!"
-msgstr ""
+msgstr "Ak, det er håbløst! Jeg overgiver mig!"
 
 #: Mystery_Campaign/utils/scenarios.cfg:255
 msgid "Your enemy has surrendered!"
-msgstr ""
-
-#~ msgid "impact"
-#~ msgstr "slag"
-
-#~ msgid "Easy"
-#~ msgstr "Let"
-
-#~ msgid "fist"
-#~ msgstr "knytnæve"
+msgstr "Din fjende har overgivet sig!"
