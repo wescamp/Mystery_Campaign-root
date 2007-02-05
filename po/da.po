@@ -19,8 +19,10 @@ msgstr ""
 
 #: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
-msgstr "Mysteriumskampagnen"
+msgstr "Mysteriekampagnen"
 
+# Har bevidst fravalgt "ikke så let", da der kun er tre niveauer og 
+# Not so easy er den midterste og svarer til normal.
 #: Mystery_Campaign.cfg:22
 msgid "Not so easy"
 msgstr "Normal"
@@ -78,15 +80,17 @@ msgstr "Skeletdrage"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr "Drakere"
+msgstr "Hestedragere"
 
+# Her er der ikke fundet et ordentlig navn endnu, andre muligheder er 
+# kaosmennesker, kaotikere eller anarkister.
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
-msgstr "Anarkister"
+msgstr "Lyssky mennesker"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:3
 msgid "Mystery Scenario"
-msgstr "Mysterium scenarie"
+msgstr "mysteriescenarium"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
 msgid ""
@@ -117,9 +121,9 @@ msgid ""
 "now aid those around her in the art of combat."
 msgstr ""
 "Adelig fra fødslen er krigsfyrstinden udlært i sværdkunsten af de største "
-"generaler, og krigstaktik af de største sages, hvilket har gjort hende  til "
-"en dygtig kriger og leder. Med krigserfaring og en stærk vilje kan hun også "
-"hjælpe dem omkring hende i krigskunsten."
+"generaler, og krigstaktik af de største vismænd, hvilket har gjort hende  "
+"til en dygtig kriger og leder. Med krigserfaring og en stærk vilje kan hun "
+"også hjælpe dem omkring hende i krigskunsten."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
@@ -147,7 +151,7 @@ msgid ""
 "dangerous."
 msgstr ""
 "Basilisker, disse mystiske skabninger menes at være i stand til at gøre alt "
-"levende til sten. Dette gør dem - selvfølgelig - ekstremt farlige."
+"levende til sten. Dette gør dem - selvsagt - ekstremt farlige."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
 msgid "gaze"
@@ -161,10 +165,10 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
-"Rangen af kommandør indehaves af de personer som fører krigsenheder i kamp."
-"Med deres lederevner, yder de hjælp til mindre erfarne enheder i tilstødende "
-"felter. Kommandøren er uddannet med sværdet, men bærer også en bue. Hvis "
-"kommandøren dræbes, tabes slaget."
+"Rangen af kommandør indehaves af de enheder som fører andre krigsenheder i "
+"kamp.Med deres lederevner yder de hjælp til mindre erfarne enheder i "
+"tilstødende felter. Kommandøren er uddannet med sværdet, men bærer også en "
+"bue. Hvis kommandøren dræbes, tabes slaget."
 
 #: Mystery_Campaign/units/Elder_Mage.cfg:23
 msgid ""
@@ -199,7 +203,7 @@ msgstr ""
 
 #: Mystery_Campaign/units/Fighter.cfg:4
 msgid "Fighter"
-msgstr "Kriger"
+msgstr "Kæmper"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
 msgid ""
@@ -207,9 +211,8 @@ msgid ""
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
-"Unge og energifyldte, krigerne kæmper med sværd og er sårbare over for "
-"angreb. De har dog også potentialet til en dag at blive stærke og berømte "
-"krigere. "
+"Unge og energifyldte. Kæmperne slås med sværd og er sårbare over for angreb. "
+"De har dog også potentialet til en dag at blive stærke og berømte kæmpere. "
 
 #: Mystery_Campaign/units/Lord.cfg:29
 msgid ""
@@ -219,7 +222,7 @@ msgid ""
 "level units."
 msgstr ""
 "Som leder af mange menige er lensherren specielt stærk i nærkamp, og har "
-"også evner indenfor bueskydning. Ligesom kommandører, har lensherrer "
+"også evner inden for bueskydning. Ligesom kommandører, har lensherrer "
 "lederevner, og forøger dermed lavere rangerende enheders kampevner når de er "
 "placeret omkring lensherren."
 
@@ -260,17 +263,18 @@ msgid ""
 "lived long enough to change their minds."
 msgstr ""
 "For lang tid siden blev et af de stærkeste levende skabninger, den frygtede "
-"drage, til kun ben og mørk livsnerve. Lang tid efter dens død, blev den "
-"genskabt igennem mørk magi, som den nu er loyal over for. Skeletdragen ser "
-"ikke ud af meget andet end en bunke af ben, men meget få personer som så den "
-"sådan levede i så lang tid, at de kunne nå at ændre deres opfattelse."
+"drage, reduceret til kun ben og mørk livsnerve. Lang tid efter dens død, "
+"blev den genskabt igennem mørk magi, som den nu er loyal over for. "
+"Skeletdragen ser ikke ud af meget andet end en bunke af ben, men meget få "
+"personer som så den sådan levede i så lang tid, at de kunne nå at ændre "
+"deres opfattelse."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
 msgid ""
 "Cold and beautiful, she maintains her eternal youthful appearance drinking "
 "the blood of the living."
 msgstr ""
-"Kold og smuk, bevarende sin evige ungdom ved at drikke blod fra de levende. "
+"Kold og smuk bevarer hun sin evige ungdom ved at drikke blod fra de levende."
 
 #: Mystery_Campaign/utils/config.cfg:24
 msgid "What faction do you want to play:"
@@ -286,7 +290,7 @@ msgstr "Hvilken enhedstype skal din leder være?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:176
 msgid "Please don't hurt me! Have you no pity?"
-msgstr "Undlad venligst at ydmyge mig! Viser du ingen nåde?"
+msgstr "Ydmyg mig ikke! Viser du ingen nåde?"
 
 #: Mystery_Campaign/utils/scenarios.cfg:249
 msgid "Oh, it's hopeless! I surrender!"
