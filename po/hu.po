@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 02:10+0200\n"
+"POT-Creation-Date: 2007-05-10 18:55+0200\n"
 "PO-Revision-Date: 2005-07-10 13:34+0200\n"
 "Last-Translator: Automatically generated <>\n"
 "Language-Team: none\n"
@@ -82,7 +82,24 @@ msgstr ""
 msgid "Mystery Scenario"
 msgstr "Rejtelem pálya"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
+#, fuzzy
+msgid "What funding level do you want for the campaign?"
+msgstr "Melyik fajjal kívánsz lenni:"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
+msgid "Classic"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
+msgid "Excessive"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
+msgid "Moderate"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -98,6 +115,26 @@ msgstr ""
 "\n"
 "Ahhoz, hogy túljuss ezen a pályám, le kell győznöd, vagy kierőltetned, hogy "
 "feladjam a játékot!"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#, fuzzy
+msgid "Enemy leader surrenders"
+msgstr "Az ellenfeled feladta az összecsapást!"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+msgid "Death of your leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#, fuzzy
+msgid "Your leader surrenders"
+msgstr "Az ellenfeled feladta az összecsapást!"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
@@ -227,27 +264,27 @@ msgid ""
 "the blood of the living."
 msgstr ""
 
-#: Mystery_Campaign/utils/config.cfg:24
+#: Mystery_Campaign/utils/config.cfg:14
 msgid "What faction do you want to play:"
 msgstr "Melyik fajjal kívánsz lenni:"
 
-#: Mystery_Campaign/utils/config.cfg:26
+#: Mystery_Campaign/utils/config.cfg:16
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Válassz egyet nekem!"
 
-#: Mystery_Campaign/utils/config.cfg:64
+#: Mystery_Campaign/utils/config.cfg:53
 msgid "What type of unit should your leader be?"
 msgstr "Milyen fajta egység legyen a vezéred?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:176
+#: Mystery_Campaign/utils/scenarios.cfg:224
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Kérlek ne bánts! Nincs benned szánalom?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:249
+#: Mystery_Campaign/utils/scenarios.cfg:297
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Ó, ez reménytelen! Megadom magam!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:255
+#: Mystery_Campaign/utils/scenarios.cfg:303
 msgid "Your enemy has surrendered!"
 msgstr "Az ellenfeled feladta az összecsapást!"
 
@@ -256,18 +293,6 @@ msgstr "Az ellenfeled feladta az összecsapást!"
 
 #~ msgid "Easy"
 #~ msgstr "Könnyű"
-
-#, fuzzy
-#~ msgid "What funding level do you want for the campaign?"
-#~ msgstr "Melyik fajjal kívánsz lenni:"
-
-#, fuzzy
-#~ msgid "Enemy leader surrenders"
-#~ msgstr "Az ellenfeled feladta az összecsapást!"
-
-#, fuzzy
-#~ msgid "Your leader surrenders"
-#~ msgstr "Az ellenfeled feladta az összecsapást!"
 
 #~ msgid "fist"
 #~ msgstr "ököl"

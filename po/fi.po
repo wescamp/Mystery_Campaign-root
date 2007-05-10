@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 02:10+0200\n"
+"POT-Creation-Date: 2007-05-10 18:55+0200\n"
 "PO-Revision-Date: 2006-03-05 10:12+0200\n"
 "Last-Translator: Mikko Kraft <mikkokraft@gmail.com>\n"
 "Language-Team: none\n"
@@ -81,7 +81,24 @@ msgstr "Kaoottiset ihmiset"
 msgid "Mystery Scenario"
 msgstr "Mysteerioskenaario"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
+#, fuzzy
+msgid "What funding level do you want for the campaign?"
+msgstr "Millä liittoumalla haluat pelata:"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
+msgid "Classic"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
+msgid "Excessive"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
+msgid "Moderate"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -98,6 +115,26 @@ msgstr ""
 "\n"
 "Voittaaksesi skenaarion, sinun täytyy lyödä minut, tai pakottaa minut "
 "antautumaan!"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#, fuzzy
+msgid "Enemy leader surrenders"
+msgstr "Vastustajasi on luovuttanut!"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+msgid "Death of your leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#, fuzzy
+msgid "Your leader surrenders"
+msgstr "Vastustajasi on luovuttanut!"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
@@ -226,27 +263,27 @@ msgid ""
 "the blood of the living."
 msgstr ""
 
-#: Mystery_Campaign/utils/config.cfg:24
+#: Mystery_Campaign/utils/config.cfg:14
 msgid "What faction do you want to play:"
 msgstr "Millä liittoumalla haluat pelata:"
 
-#: Mystery_Campaign/utils/config.cfg:26
+#: Mystery_Campaign/utils/config.cfg:16
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Valitse yksi meistä!"
 
-#: Mystery_Campaign/utils/config.cfg:64
+#: Mystery_Campaign/utils/config.cfg:53
 msgid "What type of unit should your leader be?"
 msgstr "Millainen yksikkö johtaa joukkoja?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:176
+#: Mystery_Campaign/utils/scenarios.cfg:224
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Älä satuta minua! Etkö tunne ollenkaan sääliä?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:249
+#: Mystery_Campaign/utils/scenarios.cfg:297
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Oh, tämä on toivotonta. Luovutan!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:255
+#: Mystery_Campaign/utils/scenarios.cfg:303
 msgid "Your enemy has surrendered!"
 msgstr "Vastustajasi on luovuttanut!"
 
@@ -255,18 +292,6 @@ msgstr "Vastustajasi on luovuttanut!"
 
 #~ msgid "Easy"
 #~ msgstr "Helppo"
-
-#, fuzzy
-#~ msgid "What funding level do you want for the campaign?"
-#~ msgstr "Millä liittoumalla haluat pelata:"
-
-#, fuzzy
-#~ msgid "Enemy leader surrenders"
-#~ msgstr "Vastustajasi on luovuttanut!"
-
-#, fuzzy
-#~ msgid "Your leader surrenders"
-#~ msgstr "Vastustajasi on luovuttanut!"
 
 #~ msgid "fist"
 #~ msgstr "nyrkki"

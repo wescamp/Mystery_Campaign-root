@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 02:10+0200\n"
+"POT-Creation-Date: 2007-05-10 18:55+0200\n"
 "PO-Revision-Date: 2006-12-19 15:52+0100\n"
 "Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -82,7 +82,24 @@ msgstr "Humains chaotiques"
 msgid "Mystery Scenario"
 msgstr "Scénario mystère"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
+#, fuzzy
+msgid "What funding level do you want for the campaign?"
+msgstr "Avec quelle faction voulez-vous jouer :"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
+msgid "Classic"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
+msgid "Excessive"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
+msgid "Moderate"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -97,6 +114,26 @@ msgstr ""
 "d'unités suivants : $enemy_recruits|.\n"
 "\n"
 "Pour réussir ce scénario, vous devez me vaincre ou me forcer à me rendre !"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#, fuzzy
+msgid "Enemy leader surrenders"
+msgstr "Votre ennemi s'est rendu !"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+msgid "Death of your leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#, fuzzy
+msgid "Your leader surrenders"
+msgstr "Votre ennemi s'est rendu !"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
@@ -272,27 +309,27 @@ msgstr ""
 "Froide et belle, elle conserve son apparence d'éternelle jeunesse en buvant "
 "le sang des vivants."
 
-#: Mystery_Campaign/utils/config.cfg:24
+#: Mystery_Campaign/utils/config.cfg:14
 msgid "What faction do you want to play:"
 msgstr "Quelle faction voulez-vous jouer :"
 
-#: Mystery_Campaign/utils/config.cfg:26
+#: Mystery_Campaign/utils/config.cfg:16
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Choisis-en une pour moi !"
 
-#: Mystery_Campaign/utils/config.cfg:64
+#: Mystery_Campaign/utils/config.cfg:53
 msgid "What type of unit should your leader be?"
 msgstr "De quel type d'unité sera votre seigneur ?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:176
+#: Mystery_Campaign/utils/scenarios.cfg:224
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Ne me faites pas de mal ! N'avez-vous donc aucune pitié ?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:249
+#: Mystery_Campaign/utils/scenarios.cfg:297
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Oh, c'est sans espoir ! Je me rends !"
 
-#: Mystery_Campaign/utils/scenarios.cfg:255
+#: Mystery_Campaign/utils/scenarios.cfg:303
 msgid "Your enemy has surrendered!"
 msgstr "Votre ennemi s'est rendu !"
 
@@ -301,18 +338,6 @@ msgstr "Votre ennemi s'est rendu !"
 
 #~ msgid "Easy"
 #~ msgstr "Facile"
-
-#, fuzzy
-#~ msgid "What funding level do you want for the campaign?"
-#~ msgstr "Avec quelle faction voulez-vous jouer :"
-
-#, fuzzy
-#~ msgid "Enemy leader surrenders"
-#~ msgstr "Votre ennemi s'est rendu !"
-
-#, fuzzy
-#~ msgid "Your leader surrenders"
-#~ msgstr "Votre ennemi s'est rendu !"
 
 #~ msgid "fist"
 #~ msgstr "poing"

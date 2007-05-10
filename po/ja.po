@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 02:10+0200\n"
+"POT-Creation-Date: 2007-05-10 18:55+0200\n"
 "PO-Revision-Date: 2006-09-11 18:46+0900\n"
 "Last-Translator: Nobuhito Okada <okyada@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -86,7 +86,24 @@ msgstr "混沌の人間達"
 msgid "Mystery Scenario"
 msgstr "ミステリー・シナリオ"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
+#, fuzzy
+msgid "What funding level do you want for the campaign?"
+msgstr "どちらの派閥でプレイしますか:"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
+msgid "Classic"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
+msgid "Excessive"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
+msgid "Moderate"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -102,6 +119,26 @@ msgstr ""
 "\n"
 "シナリオをクリアするには、私を倒すか、私をねじ伏せて降伏させなければならな"
 "い！"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#, fuzzy
+msgid "Enemy leader surrenders"
+msgstr "あなたの敵は降伏しました！"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+msgid "Death of your leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#, fuzzy
+msgid "Your leader surrenders"
+msgstr "あなたの敵は降伏しました！"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
@@ -230,27 +267,27 @@ msgid ""
 "the blood of the living."
 msgstr ""
 
-#: Mystery_Campaign/utils/config.cfg:24
+#: Mystery_Campaign/utils/config.cfg:14
 msgid "What faction do you want to play:"
 msgstr "どちらの派閥でプレイしますか:"
 
-#: Mystery_Campaign/utils/config.cfg:26
+#: Mystery_Campaign/utils/config.cfg:16
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=ランダムに一つ選ぶ！"
 
-#: Mystery_Campaign/utils/config.cfg:64
+#: Mystery_Campaign/utils/config.cfg:53
 msgid "What type of unit should your leader be?"
 msgstr "あなたのリーダーはどのタイプのユニットにしますか？"
 
-#: Mystery_Campaign/utils/scenarios.cfg:176
+#: Mystery_Campaign/utils/scenarios.cfg:224
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "傷つけないで下さい！ 哀れみというものがないのですか？"
 
-#: Mystery_Campaign/utils/scenarios.cfg:249
+#: Mystery_Campaign/utils/scenarios.cfg:297
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "ああ、もう希望はない！ 私は降伏します！"
 
-#: Mystery_Campaign/utils/scenarios.cfg:255
+#: Mystery_Campaign/utils/scenarios.cfg:303
 msgid "Your enemy has surrendered!"
 msgstr "あなたの敵は降伏しました！"
 
@@ -259,18 +296,6 @@ msgstr "あなたの敵は降伏しました！"
 
 #~ msgid "Easy"
 #~ msgstr "易しい"
-
-#, fuzzy
-#~ msgid "What funding level do you want for the campaign?"
-#~ msgstr "どちらの派閥でプレイしますか:"
-
-#, fuzzy
-#~ msgid "Enemy leader surrenders"
-#~ msgstr "あなたの敵は降伏しました！"
-
-#, fuzzy
-#~ msgid "Your leader surrenders"
-#~ msgstr "あなたの敵は降伏しました！"
 
 #~ msgid "fist"
 #~ msgstr "拳"
