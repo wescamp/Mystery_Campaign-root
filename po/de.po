@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-19 02:10+0200\n"
-"PO-Revision-Date: 2005-11-13 18:05+0100\n"
-"Last-Translator: David Philippi <david@torangan.de>\n"
+"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"PO-Revision-Date: 2007-05-10 13:17+0100\n"
+"Last-Translator: Stefan von Halenbach <vonHalenbach at users dot sf .net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
 
 #: Mystery_Campaign.cfg:16
 msgid "Mystery Campaign"
@@ -30,49 +32,49 @@ msgid ""
 msgstr ""
 "Dies ist eine unendlich lange, zufällige Kampagne. Während Sie spielen, wird "
 "es in mehrfacher Hinsicht schwieriger. Wie viele Szenarien können Sie "
-"gewinnen?"
+"überstehen?"
 
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Gorgonit"
 
 #: Mystery_Campaign/factions/loyalists.cfg:21
 #: Mystery_Campaign/factions/rebels.cfg:21
 #: Mystery_Campaign/units/Elder_Mage.cfg:4
 msgid "Elder Mage"
-msgstr ""
+msgstr "Erfahrener Magier"
 
 #: Mystery_Campaign/factions/loyalists.cfg:22
 msgid "Battle Princess"
-msgstr ""
+msgstr "Prinzessin des Krieges"
 
 #: Mystery_Campaign/factions/rebels.cfg:22 Mystery_Campaign/units/Lord.cfg:4
 msgid "Lord"
-msgstr ""
+msgstr "Fürst"
 
 #: Mystery_Campaign/factions/rebels.cfg:23
 msgid "Elvish Marshal"
-msgstr ""
+msgstr "Elfenmarschall"
 
 #: Mystery_Campaign/factions/rebels.cfg:28
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr ""
+msgstr "Elfenfürst"
 
 #: Mystery_Campaign/factions/rebels.cfg:29
 #: Mystery_Campaign/units/Elvish_Lord.cfg:4
 msgid "Elvish Lord"
-msgstr ""
+msgstr "Elfenbaron"
 
 #: Mystery_Campaign/factions/undead.cfg:43
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr ""
+msgstr "Knochendrake"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr ""
+msgstr "Draken"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
@@ -82,7 +84,24 @@ msgstr "Gesetzlose"
 msgid "Mystery Scenario"
 msgstr "Geheimnis Szenario"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:103
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
+#, fuzzy
+msgid "What funding level do you want for the campaign?"
+msgstr "Welche Fraktion wollt Ihr spielen?:"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
+msgid "Classic"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
+msgid "Excessive"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
+msgid "Moderate"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -91,17 +110,37 @@ msgid ""
 "\n"
 "To complete the scenario, you must defeat me, or force me to surrender!"
 msgstr ""
-"Seit gegrüßt, $player_leader|, willkommen zu Szenario $scenario_number|.\n"
+"Seid gegrüßt, $player_leader|, willkommen zu Szenario $scenario_number|.\n"
 "\n"
-"Ich habe $gold Gold und meine Armee von $enemy_faction besteht aus den "
+"Ich habe $gold Goldstücke und meine Armee von $enemy_faction besteht aus den "
 "folgenden Arten von Einheiten: $enemy_recruits|. \n"
 "\n"
 "Um dieses Szenario abzuschließen, müssen Sie mich besiegen oder zur Aufgabe "
 "zwingen!"
 
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#, fuzzy
+msgid "Enemy leader surrenders"
+msgstr "Euer Gegner hat sich ergeben!"
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+msgid "Death of your leader"
+msgstr ""
+
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#, fuzzy
+msgid "Your leader surrenders"
+msgstr "Euer Gegner hat sich ergeben!"
+
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Prinzessin des Krieges"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:31
 msgid ""
@@ -110,15 +149,20 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Als Edle von Geburt, lernte die Prinzessin den Schwertkampf von den größten "
+"Generälen und die Kriegstaktiken von den namhaftesten Weisen, was sie zu "
+"einer großartigen Kämpferin und Anführerin werden ließ. Kriegserprobt und "
+"willensstark kann sie nun die sie umgebenden durch ihre Erfahrung im Kampf "
+"unterstützen."
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:34
 #: Mystery_Campaign/units/Princess.cfg:35
 msgid "sabre"
-msgstr ""
+msgstr "Säbel"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
-msgstr ""
+msgstr "Knochenreiter"
 
 #: Mystery_Campaign/units/Chocobone.cfg:20
 msgid ""
@@ -126,6 +170,10 @@ msgid ""
 "civilization, the skeletal Chocobones can move faster than most cavalry "
 "units."
 msgstr ""
+"Wenn sie auf den Knochen von straussengrossen Vögeln reiten, die einmal von "
+"untergegangenen Völkern als Reittiere gehalten wurden, können sich die "
+"Knochenreiter schneller fortbewegen, als die meisten anderen Einheiten der "
+"Kavallerie."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:17
 msgid ""
@@ -133,10 +181,14 @@ msgid ""
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"In manchen Gegenden auch bekannt unter dem Namen 'Basilisken'. Man sagt von "
+"diesen mystischen Wesen, dass sie die Fähigkeit besitzen, lebende Kreaturen "
+"zu Stein erstarren zu lassen. Unnötig zu sagen, dass diese Eigenschaft sie "
+"extrem gefährlich macht."
 
 #: Mystery_Campaign/units/Cockatrice.cfg:20
 msgid "gaze"
-msgstr ""
+msgstr "Netz"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -146,6 +198,12 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"Den Rang eines Feldherren haben diejenigen, die Kriegstruppen in die "
+"Schlacht führen. Da sie über Führungsqualitäten verfügen, geben sie "
+"angrenzenden Einheiten auf niedrigerer Ebene wie von Zauberhand verbesserte "
+"Fähigkeiten im Kampf. Feldherren können am Besten mit dem Schwert umgehen. "
+"Trotzdem tragen sie einen Bogen bei sich, von dem sie auch Gebrauch machen, "
+"falls es notwendig wird. Ist der Feldherr verloren, ist es auch der Kampf."
 
 #: Mystery_Campaign/units/Elder_Mage.cfg:23
 msgid ""
@@ -153,6 +211,9 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Einst groß und Mächtig, hat die Macht der alten Magier, ermüdet durch den "
+"jahrelangen Kampf nachgelassen. Trotzdem bleiben sie auf dem Schlachtfeld "
+"wegen ihrer Fähigkeit kraftvolle Lichtblitze zu erzeugen gefürchtet."
 
 #: Mystery_Campaign/units/Elvish_High_Lord.cfg:19
 msgid ""
@@ -161,6 +222,10 @@ msgid ""
 "times of peace, a High Lord in the full of his wrath is an awesome sight "
 "indeed."
 msgstr ""
+"Die Anführer der Elfen werden mit dem Alter nicht blass und gebrechlich. "
+"Ganz im Gegenteil, gerade zu der Zeit erwachen ihre wahren Fähigkeiten. "
+"Ruhig und besinnlich in Friedenszeiten ist ein zorniger Elfenfürst "
+"allerdings ein furchteinflößender Anblick."
 
 #: Mystery_Campaign/units/Elvish_Lord.cfg:18
 msgid ""
@@ -168,11 +233,13 @@ msgid ""
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
 msgstr ""
+"Der elfische Adel ist davon besessen, sich seinem gesellschaftlichen Stand "
+"angemessen zu verhalten. Elfenfürsten sind die weisesten und stärksten ihres "
+"Volkes und beherrschen furchterregende Zauber."
 
 #: Mystery_Campaign/units/Fighter.cfg:4
-#, fuzzy
 msgid "Fighter"
-msgstr "Alptraum"
+msgstr "Kämpfer"
 
 #: Mystery_Campaign/units/Fighter.cfg:18
 msgid ""
@@ -180,6 +247,9 @@ msgid ""
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
+"Jung und selbstbewusst, Krieger kämpfen mit einem Schwert und können von "
+"feindlichen Angriffen verletzt werden. Jedoch wohnt ihnen die Möglichkeit "
+"inne, eines Tages große Kriegsherren zu werden."
 
 #: Mystery_Campaign/units/Lord.cfg:29
 msgid ""
@@ -188,6 +258,10 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Die edlen Anführer vieler Truppen, die Fürsten, sind vor allem im Nahkampf "
+"stark, besitzen aber auch Kenntnisse im Umgang mit dem Bogen. Wie die "
+"Feldherren besitzen auch die Fürsten Führungsqualitäten. Sie verbessern die "
+"Kampfkünste aller benachbarten unteren Einheiten."
 
 #: Mystery_Campaign/units/Merdwarf.cfg:3
 msgid "Merdwarf"
@@ -199,7 +273,7 @@ msgid ""
 "underwater.  Of course, no-one could possibly believe such a ridiculous "
 "story."
 msgstr ""
-"Legenden erzählen von Zwergen die zum Meer gingen und sich an ein Leben "
+"Legenden erzählen von Zwergen, die zum Meer gingen und sich an ein Leben "
 "unter der Wasseroberfläche anpassten. Natürlich konnte niemand eine solch "
 "lächerliche Geschichte glauben."
 
@@ -211,6 +285,12 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
+"Da sie Edel von Geburt war, lernte die Prinzessin den Schwertkampf von den "
+"größten Generälen und die Kriegstaktiken von den namhaftesten Weisen, was "
+"sie zu einer großartigen Kämpferin und Anführerin werden ließ. Die Einheiten "
+"niedrigerer Ebenen, die die Prinzessin umgeben, kämpfen bei ihrer "
+"Anwesenheit besser. Die Prinzessin ist geschickt wie auch treffsicher. Die "
+"gleichen Fähigkeiten die ein Dieb nur nach Jahrelanger Übung erwerben kann."
 
 #: Mystery_Campaign/units/Skeletal_Dragon.cfg:26
 msgid ""
@@ -220,54 +300,41 @@ msgid ""
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
 msgstr ""
+"Vor langer Zeit wurde eine der mächtigsten lebenden Kreaturen, der "
+"gefürchtete Drache zu Haut und Knochen. Lange nach seinem Tod wurde er durch "
+"die dunkle Macht der Totenbeschwörung wieder zum Leben erweckt, der er nun "
+"dient. Der Skelettdrache sieht vielleicht nur aus wie ein Haufen Knochen, "
+"aber einige wenige Personen, die das dachten, lebten noch lange genug, um "
+"ihre Meinung zu ändern."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
 msgid ""
 "Cold and beautiful, she maintains her eternal youthful appearance drinking "
 "the blood of the living."
 msgstr ""
+"Gefühlskalt und gleichzeitig schön. Sie hält ihre ewige Schönheit durch das "
+"Trinken des Blutes der Lebenden aufrecht."
 
-#: Mystery_Campaign/utils/config.cfg:24
+#: Mystery_Campaign/utils/config.cfg:14
 msgid "What faction do you want to play:"
-msgstr "Welche Fraktion wollen Sie spielen:"
+msgstr "Welche Fraktion wollt Ihr spielen?:"
 
-#: Mystery_Campaign/utils/config.cfg:26
+#: Mystery_Campaign/utils/config.cfg:16
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Wähle für mich!"
 
-#: Mystery_Campaign/utils/config.cfg:64
+#: Mystery_Campaign/utils/config.cfg:53
 msgid "What type of unit should your leader be?"
 msgstr "Welcher Einheit soll Ihr Anführer sein?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:176
+#: Mystery_Campaign/utils/scenarios.cfg:224
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Bitte tut mir nicht weh! Habt Ihr kein Mitleid?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:249
+#: Mystery_Campaign/utils/scenarios.cfg:297
 msgid "Oh, it's hopeless! I surrender!"
-msgstr "Oh, es ist hoffnungslos! I gebe auf!"
+msgstr "Oh, es ist Hoffnungslos! Ich gebe auf!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:255
+#: Mystery_Campaign/utils/scenarios.cfg:303
 msgid "Your enemy has surrendered!"
 msgstr "Euer Gegner hat sich ergeben!"
-
-#~ msgid "impact"
-#~ msgstr "Wucht"
-
-#~ msgid "Easy"
-#~ msgstr "Leicht"
-
-#, fuzzy
-#~ msgid "What funding level do you want for the campaign?"
-#~ msgstr "Welche Fraktion wollen Sie spielen:"
-
-#, fuzzy
-#~ msgid "Enemy leader surrenders"
-#~ msgstr "Euer Gegner hat sich ergeben!"
-
-#, fuzzy
-#~ msgid "Your leader surrenders"
-#~ msgstr "Euer Gegner hat sich ergeben!"
-
-#~ msgid "fist"
-#~ msgstr "Faust"
