@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-10 18:55+0200\n"
-"PO-Revision-Date: 2007-05-10 13:17+0100\n"
+"PO-Revision-Date: 2007-05-11 00:12+0100\n"
 "Last-Translator: Stefan von Halenbach <vonHalenbach at users dot sf .net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -85,21 +85,20 @@ msgid "Mystery Scenario"
 msgstr "Geheimnis Szenario"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
-#, fuzzy
 msgid "What funding level do you want for the campaign?"
-msgstr "Welche Fraktion wollt Ihr spielen?:"
+msgstr "Welche Menge Anfangskapital wollt ihr für die Kampagne?:"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
 msgid "Classic"
-msgstr ""
+msgstr "Klassisch"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
 msgid "Excessive"
-msgstr ""
+msgstr "Excessiv"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
 msgid "Moderate"
-msgstr ""
+msgstr "Moderat"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
@@ -121,22 +120,20 @@ msgstr ""
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Besiegt alle gegnerischen Anführer"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
-#, fuzzy
 msgid "Enemy leader surrenders"
 msgstr "Euer Gegner hat sich ergeben!"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
 msgid "Death of your leader"
-msgstr ""
+msgstr "Euer Anführer stirbt in der Schlacht"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
-#, fuzzy
 msgid "Your leader surrenders"
-msgstr "Euer Gegner hat sich ergeben!"
+msgstr "Euer Anführer hat sich ergeben!"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
