@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-10 18:55+0200\n"
-"PO-Revision-Date: 2007-01-01 22:43+0200\n"
+"PO-Revision-Date: 2007-05-14 22:43+0200\n"
 "Last-Translator: Joe Hansen\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -93,21 +93,20 @@ msgid "Mystery Scenario"
 msgstr "mysteriescenarium"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
-#, fuzzy
 msgid "What funding level do you want for the campaign?"
-msgstr "Hvilken fraktion ønsker du at spille:"
+msgstr "På hvilket pengeniveau ønsker du at spille kampagnen?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
 msgid "Classic"
-msgstr ""
+msgstr "Klassisk"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
 msgid "Excessive"
-msgstr ""
+msgstr "Overdreven"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
 msgid "Moderate"
-msgstr ""
+msgstr "Moderat"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
@@ -129,22 +128,20 @@ msgstr ""
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Besejr fjendtlig leder"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
-#, fuzzy
 msgid "Enemy leader surrenders"
-msgstr "Din fjende har overgivet sig!"
+msgstr "Fjendtlig leder overgiver sig"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
 msgid "Death of your leader"
-msgstr ""
+msgstr "Din leders død"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
-#, fuzzy
 msgid "Your leader surrenders"
-msgstr "Din fjende har overgivet sig!"
+msgstr "Din leder overgiver sig"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
