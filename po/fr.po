@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-10 18:55+0200\n"
-"PO-Revision-Date: 2006-12-19 15:52+0100\n"
-"Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
+"PO-Revision-Date: 2007-05-22 15:09+0100\n"
+"Last-Translator: Damien <guydelatour@gloireetpouvoir.com>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,9 +28,9 @@ msgid ""
 "This is an infinitely long, random, campaign. As you play, it gets "
 "increasing difficult in various ways.  How many scenarios can you complete?"
 msgstr ""
-"Ceci est une campagne aléatoire et infiniment longue. Au fur et à mesure que "
-"vous jouez, elle est de plus en plus difficile sur plusieurs points. Combien "
-"de scénarios pourrez-vous réussir ?"
+"Ceci est une campagne aléatoire et infiniment longue. Elle devient de plus "
+"en plus difficile au fur et à mesure que vous jouez. Combien de scénarios "
+"pourrez-vous réussir ?"
 
 #: Mystery_Campaign/factions/chaotic-humans.cfg:19
 #: Mystery_Campaign/units/Cockatrice.cfg:4
@@ -72,7 +72,7 @@ msgstr "Dragon squelette"
 
 #: Mystery_Campaign/factions_config.cfg:20
 msgid "Drakes"
-msgstr "Drakes"
+msgstr "Dracans"
 
 #: Mystery_Campaign/factions_config.cfg:26
 msgid "Chaotic Humans"
@@ -83,21 +83,20 @@ msgid "Mystery Scenario"
 msgstr "Scénario mystère"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
-#, fuzzy
 msgid "What funding level do you want for the campaign?"
-msgstr "Avec quelle faction voulez-vous jouer :"
+msgstr "Quel niveau de ressources attribuer à la campagne ?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
 msgid "Classic"
-msgstr ""
+msgstr "Habituel"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
 msgid "Excessive"
-msgstr ""
+msgstr "Excessif"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
 msgid "Moderate"
-msgstr ""
+msgstr "Limité"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
@@ -118,22 +117,20 @@ msgstr ""
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Vaincre le chef ennemi"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
-#, fuzzy
 msgid "Enemy leader surrenders"
-msgstr "Votre ennemi s'est rendu !"
+msgstr "Le chef ennemi s'est rendu !"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
 msgid "Death of your leader"
-msgstr ""
+msgstr "Mort de votre chef"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
-#, fuzzy
 msgid "Your leader surrenders"
-msgstr "Votre ennemi s'est rendu !"
+msgstr "Votre chef s'est rendu !"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
@@ -146,7 +143,7 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
-"Noble par naissance, la princesse a appris le maniement de l'épée avec les "
+"De noble naissance, la princesse a appris le maniement de l'épée avec les "
 "plus grands généraux et la tactique avec les plus grands sages, ce qui fait "
 "d'elle à la fois une combattante valeureuse et une meneuse respectée. "
 "Maintenant rompue au combat et d'une volonté inflexible, elle peut faire "
@@ -279,7 +276,7 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
-"Noble par naissance, la princesse a appris le maniement de l'épée avec les "
+"De noble naissance, la princesse a appris le maniement de l'épée avec les "
 "plus grands généraux et la tactique avec les plus grands sages, ce qui fait "
 "d'elle à la fois une combattante valeureuse et une meneuse respectée. Les "
 "unités de niveau inférieur autour de la princesse se battront mieux en sa "
@@ -294,12 +291,12 @@ msgid ""
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
 msgstr ""
-"Il y a longtemps une des plus puissantes créatures vivantes, le dragon "
-"redouté n'est devenu qu'os et muscles noircis. Longtemps après sa mort, il a "
-"été rappelé au moyen des pouvoirs sombres de la nécromancie, qu'il sert "
-"maintenant. Le dragon squelette peut n'avoir l'air de rien d'autre qu'un tas "
-"d'os, mais peu parmi ceux qui ont pensé ainsi ont vécu assez longtemps pour "
-"changer d'avis."
+"Après avoir été, il y a longtemps, une des plus puissantes créatures "
+"vivantes, le dragon redouté n'est devenu qu'os et muscles noircis. Il sert "
+"maintenant les sombres pouvoirs de la nécromancie qui l'ont ressuscité bien "
+"après sa mort. Le dragon squelette ne ressemble peut-être qu'à un tas d'os, "
+"mais la plupart de ceux qui ont pensé cela ont péri avant de pouvoir changer "
+"d'avis."
 
 #: Mystery_Campaign/units/Vampire_Lady.cfg:22
 msgid ""
