@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-10 18:55+0200\n"
-"PO-Revision-Date: 2006-11-21 23:09+0100\n"
+"PO-Revision-Date: 2007-05-27 17:32+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -84,21 +84,20 @@ msgid "Mystery Scenario"
 msgstr "Mysteriescenario"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
-#, fuzzy
 msgid "What funding level do you want for the campaign?"
-msgstr "Vilken fraktion vill du spela?"
+msgstr "Vilken inkomstnivå vill du ha i kampanjen?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
 msgid "Classic"
-msgstr ""
+msgstr "Klassisk"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
 msgid "Excessive"
-msgstr ""
+msgstr "Hög"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
 msgid "Moderate"
-msgstr ""
+msgstr "Låg"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
@@ -120,22 +119,20 @@ msgstr ""
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Besegra fiendens ledare"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
-#, fuzzy
 msgid "Enemy leader surrenders"
-msgstr "Din fiende har kapitulerat!"
+msgstr "Fiendens ledare kapitulerar"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
 msgid "Death of your leader"
-msgstr ""
+msgstr "Din ledare dör"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
-#, fuzzy
 msgid "Your leader surrenders"
-msgstr "Din fiende har kapitulerat!"
+msgstr "Din ledare kapitulerar"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
