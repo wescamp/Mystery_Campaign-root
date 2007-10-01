@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
-"PO-Revision-Date: 2006-11-17 23:44+0100\n"
+"POT-Creation-Date: 2007-10-01 21:03+0200\n"
+"PO-Revision-Date: 2007-10-01 20:07+0100\n"
 "Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none <viliam@bur.sk>\n"
 "MIME-Version: 1.0\n"
@@ -83,21 +83,20 @@ msgid "Mystery Scenario"
 msgstr "Záhadná scéna"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:53
-#, fuzzy
 msgid "What funding level do you want for the campaign?"
-msgstr "Za ktorú frakciu chceš hrať:"
+msgstr "Akú úroveň financovania chceš v tejto výprave?"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:55
 msgid "Classic"
-msgstr ""
+msgstr "Klasické"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:61
 msgid "Excessive"
-msgstr ""
+msgstr "Nadmerné"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:67
 msgid "Moderate"
-msgstr ""
+msgstr "Mierne"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
 msgid ""
@@ -118,22 +117,20 @@ msgstr ""
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "zomrie súperov veliteľ"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
-#, fuzzy
 msgid "Enemy leader surrenders"
-msgstr "Tvoj súper sa vzdal!"
+msgstr "vzdá sa súperov veliteľ"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
 msgid "Death of your leader"
-msgstr ""
+msgstr "zomrie tvoj veliteľ"
 
 #: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
-#, fuzzy
 msgid "Your leader surrenders"
-msgstr "Tvoj súper sa vzdal!"
+msgstr "vzdá sa tvoj veliteľ"
 
 #: Mystery_Campaign/units/Battle_Princess.cfg:4
 msgid "female^Battle Princess"
@@ -150,11 +147,6 @@ msgstr ""
 "a bojovú taktiku od najväčších mudrcov, čo z nej robí dobrého bojovníka i "
 "veliteľa. Je zocelená bojom a má pevnú vôľu. Dokáže pomáhať v bojovom umení "
 "okolitým jednotkám."
-
-#: Mystery_Campaign/units/Battle_Princess.cfg:34
-#: Mystery_Campaign/units/Princess.cfg:35
-msgid "sabre"
-msgstr "šabľa"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
@@ -178,10 +170,6 @@ msgid ""
 msgstr ""
 "Tieto mýtické tvory nazývané aj 'baziliškovia' majú vraj schopnosť premeniť "
 "živého tvora na kameň. Netreba zvlášť zdôrazňovať, že sú extrémne nebezpečné."
-
-#: Mystery_Campaign/units/Cockatrice.cfg:20
-msgid "gaze"
-msgstr "pohľad"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -323,6 +311,12 @@ msgstr "Ach, to je beznádejné! Vzdávam sa!"
 #: Mystery_Campaign/utils/scenarios.cfg:303
 msgid "Your enemy has surrendered!"
 msgstr "Tvoj súper sa vzdal!"
+
+#~ msgid "sabre"
+#~ msgstr "šabľa"
+
+#~ msgid "gaze"
+#~ msgstr "pohľad"
 
 #~ msgid "impact"
 #~ msgstr "drvivý"
