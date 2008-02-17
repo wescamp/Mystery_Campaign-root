@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"POT-Creation-Date: 2007-10-01 21:03+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,10 +119,6 @@ msgstr ""
 msgid "A noble by birth, the Princess has learnt swordplay with the greatest generals, and battle tactics with the greatest sages, making her both a great combatant and leader. Now battle-hardened and strong of will, she can now aid those around her in the art of combat."
 msgstr ""
 
-#: ./Mystery_Campaign/units/Battle_Princess.cfg:34 ./Mystery_Campaign/units/Princess.cfg:35
-msgid "sabre"
-msgstr ""
-
 #: ./Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
 msgstr ""
@@ -133,10 +129,6 @@ msgstr ""
 
 #: ./Mystery_Campaign/units/Cockatrice.cfg:17
 msgid "Sometimes known as 'basilisks', these mystical creatures are said to be able to turn the living to stone. Needless to say, this makes them extremely dangerous."
-msgstr ""
-
-#: ./Mystery_Campaign/units/Cockatrice.cfg:20
-msgid "gaze"
 msgstr ""
 
 #: ./Mystery_Campaign/units/Commander.cfg:30
