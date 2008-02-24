@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"POT-Creation-Date: 2008-02-24 21:59+0100\n"
 "PO-Revision-Date: 2006-09-18 18:58+0200\n"
 "Last-Translator: Jose Gordillo\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
@@ -106,7 +106,7 @@ msgstr ""
 msgid "Moderate"
 msgstr ""
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:161
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -122,22 +122,22 @@ msgstr ""
 "\n"
 "Per completar l'escenari, m'haureu de derrotar, o forçar la meva rendició!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:167
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:182
 msgid "Defeat enemy leader"
 msgstr ""
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:171
 #, fuzzy
 msgid "Enemy leader surrenders"
 msgstr "El teu enemic s'ha rendit!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:175
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:186
 msgid "Death of your leader"
 msgstr ""
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:190
 #, fuzzy
 msgid "Your leader surrenders"
 msgstr "El teu enemic s'ha rendit!"
@@ -154,8 +154,8 @@ msgid ""
 "now aid those around her in the art of combat."
 msgstr ""
 
-#: Mystery_Campaign/units/Battle_Princess.cfg:34
-#: Mystery_Campaign/units/Princess.cfg:35
+#: Mystery_Campaign/units/Battle_Princess.cfg:35
+#: Mystery_Campaign/units/Princess.cfg:36
 msgid "sabre"
 msgstr ""
 
@@ -177,7 +177,7 @@ msgid ""
 "dangerous."
 msgstr ""
 
-#: Mystery_Campaign/units/Cockatrice.cfg:20
+#: Mystery_Campaign/units/Cockatrice.cfg:21
 msgid "gaze"
 msgstr ""
 
@@ -278,19 +278,19 @@ msgstr "Quin exèrcit vols usar:"
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Tria-me'n un!"
 
-#: Mystery_Campaign/utils/config.cfg:53
+#: Mystery_Campaign/utils/config.cfg:54
 msgid "What type of unit should your leader be?"
 msgstr "Quina unitat serà el teu líder?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:224
+#: Mystery_Campaign/utils/scenarios.cfg:226
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Per favor, no em fages mal! No tens pietat?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:297
+#: Mystery_Campaign/utils/scenarios.cfg:299
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Oh, no hi ha esperança! Em rendisc!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:303
+#: Mystery_Campaign/utils/scenarios.cfg:305
 msgid "Your enemy has surrendered!"
 msgstr "El teu enemic s'ha rendit!"
 

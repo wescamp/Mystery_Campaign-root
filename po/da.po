@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"POT-Creation-Date: 2008-02-24 21:59+0100\n"
 "PO-Revision-Date: 2007-05-14 22:43+0200\n"
 "Last-Translator: Joe Hansen\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
@@ -108,7 +108,7 @@ msgstr "Overdreven"
 msgid "Moderate"
 msgstr "Moderat"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:161
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -125,21 +125,21 @@ msgstr ""
 "For at fuldføre scenariet, må du besejre mig, eller tvinge mig til "
 "overgivelse!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:167
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:182
 msgid "Defeat enemy leader"
 msgstr "Besejr fjendtlig leder"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:171
 msgid "Enemy leader surrenders"
 msgstr "Fjendtlig leder overgiver sig"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:175
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:186
 msgid "Death of your leader"
 msgstr "Din leders død"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:190
 msgid "Your leader surrenders"
 msgstr "Din leder overgiver sig"
 
@@ -159,8 +159,8 @@ msgstr ""
 "til en dygtig kriger og leder. Med krigserfaring og en stærk vilje kan hun "
 "også hjælpe dem omkring hende i krigskunsten."
 
-#: Mystery_Campaign/units/Battle_Princess.cfg:34
-#: Mystery_Campaign/units/Princess.cfg:35
+#: Mystery_Campaign/units/Battle_Princess.cfg:35
+#: Mystery_Campaign/units/Princess.cfg:36
 msgid "sabre"
 msgstr "nedsable"
 
@@ -187,7 +187,7 @@ msgstr ""
 "Basilisker, disse mystiske skabninger menes at være i stand til at gøre alt "
 "levende til sten. Dette gør dem - selvsagt - ekstremt farlige."
 
-#: Mystery_Campaign/units/Cockatrice.cfg:20
+#: Mystery_Campaign/units/Cockatrice.cfg:21
 msgid "gaze"
 msgstr "se stift"
 
@@ -318,18 +318,18 @@ msgstr "Hvilken fraktion ønsker du at spille:"
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Vælg en for mig!"
 
-#: Mystery_Campaign/utils/config.cfg:53
+#: Mystery_Campaign/utils/config.cfg:54
 msgid "What type of unit should your leader be?"
 msgstr "Hvilken enhedstype skal din leder være?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:224
+#: Mystery_Campaign/utils/scenarios.cfg:226
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Ydmyg mig ikke! Viser du ingen nåde?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:297
+#: Mystery_Campaign/utils/scenarios.cfg:299
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Ak, det er håbløst! Jeg overgiver mig!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:303
+#: Mystery_Campaign/utils/scenarios.cfg:305
 msgid "Your enemy has surrendered!"
 msgstr "Din fjende har overgivet sig!"

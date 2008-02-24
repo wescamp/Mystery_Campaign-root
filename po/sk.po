@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-10-01 21:03+0200\n"
+"POT-Creation-Date: 2008-02-24 21:59+0100\n"
 "PO-Revision-Date: 2007-10-01 20:07+0100\n"
 "Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none <viliam@bur.sk>\n"
@@ -98,7 +98,7 @@ msgstr "Nadmerné"
 msgid "Moderate"
 msgstr "Mierne"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:161
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -114,21 +114,21 @@ msgstr ""
 "\n"
 "Aby si dokončil scénu, musíš ma poraziť, alebo donútiť vzdať sa!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:167
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:182
 msgid "Defeat enemy leader"
 msgstr "zomrie súperov veliteľ"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:171
 msgid "Enemy leader surrenders"
 msgstr "vzdá sa súperov veliteľ"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:175
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:186
 msgid "Death of your leader"
 msgstr "zomrie tvoj veliteľ"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:190
 msgid "Your leader surrenders"
 msgstr "vzdá sa tvoj veliteľ"
 
@@ -147,6 +147,11 @@ msgstr ""
 "a bojovú taktiku od najväčších mudrcov, čo z nej robí dobrého bojovníka i "
 "veliteľa. Je zocelená bojom a má pevnú vôľu. Dokáže pomáhať v bojovom umení "
 "okolitým jednotkám."
+
+#: Mystery_Campaign/units/Battle_Princess.cfg:35
+#: Mystery_Campaign/units/Princess.cfg:36
+msgid "sabre"
+msgstr "šabľa"
 
 #: Mystery_Campaign/units/Chocobone.cfg:4
 msgid "Chocobone"
@@ -170,6 +175,10 @@ msgid ""
 msgstr ""
 "Tieto mýtické tvory nazývané aj 'baziliškovia' majú vraj schopnosť premeniť "
 "živého tvora na kameň. Netreba zvlášť zdôrazňovať, že sú extrémne nebezpečné."
+
+#: Mystery_Campaign/units/Cockatrice.cfg:21
+msgid "gaze"
+msgstr "pohľad"
 
 #: Mystery_Campaign/units/Commander.cfg:30
 msgid ""
@@ -296,27 +305,21 @@ msgstr "Za ktorú frakciu chceš hrať:"
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Vyber niečo za mňa!"
 
-#: Mystery_Campaign/utils/config.cfg:53
+#: Mystery_Campaign/utils/config.cfg:54
 msgid "What type of unit should your leader be?"
 msgstr "Aký druh jednotky by mal byť tvoj veliteľ?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:224
+#: Mystery_Campaign/utils/scenarios.cfg:226
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Prosím neubližuj mi! Zľutuj sa."
 
-#: Mystery_Campaign/utils/scenarios.cfg:297
+#: Mystery_Campaign/utils/scenarios.cfg:299
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Ach, to je beznádejné! Vzdávam sa!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:303
+#: Mystery_Campaign/utils/scenarios.cfg:305
 msgid "Your enemy has surrendered!"
 msgstr "Tvoj súper sa vzdal!"
-
-#~ msgid "sabre"
-#~ msgstr "šabľa"
-
-#~ msgid "gaze"
-#~ msgstr "pohľad"
 
 #~ msgid "impact"
 #~ msgstr "drvivý"

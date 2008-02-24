@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"POT-Creation-Date: 2008-02-24 21:59+0100\n"
 "PO-Revision-Date: 2007-05-22 15:09+0100\n"
 "Last-Translator: Damien <guydelatour@gloireetpouvoir.com>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -98,7 +98,7 @@ msgstr "Excessif"
 msgid "Moderate"
 msgstr "Limité"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:161
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -114,21 +114,21 @@ msgstr ""
 "\n"
 "Pour réussir ce scénario, vous devez me vaincre ou me forcer à me rendre !"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:167
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:182
 msgid "Defeat enemy leader"
 msgstr "Vaincre le chef ennemi"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:171
 msgid "Enemy leader surrenders"
 msgstr "Le chef ennemi s'est rendu !"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:175
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:186
 msgid "Death of your leader"
 msgstr "Mort de votre chef"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:190
 msgid "Your leader surrenders"
 msgstr "Votre chef s'est rendu !"
 
@@ -149,8 +149,8 @@ msgstr ""
 "Maintenant rompue au combat et d'une volonté inflexible, elle peut faire "
 "profiter ceux qui l'entourent de sa maîtrise de l'épée."
 
-#: Mystery_Campaign/units/Battle_Princess.cfg:34
-#: Mystery_Campaign/units/Princess.cfg:35
+#: Mystery_Campaign/units/Battle_Princess.cfg:35
+#: Mystery_Campaign/units/Princess.cfg:36
 msgid "sabre"
 msgstr "sabre"
 
@@ -179,7 +179,7 @@ msgstr ""
 "« basilics », qu'elles sont capables de pétrifier les êtres vivants. Inutile "
 "de dire que cela les rend extrêmement dangereuses."
 
-#: Mystery_Campaign/units/Cockatrice.cfg:20
+#: Mystery_Campaign/units/Cockatrice.cfg:21
 msgid "gaze"
 msgstr "regard"
 
@@ -314,19 +314,19 @@ msgstr "Quelle faction voulez-vous jouer :"
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Choisis-en une pour moi !"
 
-#: Mystery_Campaign/utils/config.cfg:53
+#: Mystery_Campaign/utils/config.cfg:54
 msgid "What type of unit should your leader be?"
 msgstr "De quel type d'unité sera votre seigneur ?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:224
+#: Mystery_Campaign/utils/scenarios.cfg:226
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Ne me faites pas de mal ! N'avez-vous donc aucune pitié ?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:297
+#: Mystery_Campaign/utils/scenarios.cfg:299
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Oh, c'est sans espoir ! Je me rends !"
 
-#: Mystery_Campaign/utils/scenarios.cfg:303
+#: Mystery_Campaign/utils/scenarios.cfg:305
 msgid "Your enemy has surrendered!"
 msgstr "Votre ennemi s'est rendu !"
 

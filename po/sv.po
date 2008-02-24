@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"POT-Creation-Date: 2008-02-24 21:59+0100\n"
 "PO-Revision-Date: 2007-05-27 17:32+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -99,7 +99,7 @@ msgstr "Hög"
 msgid "Moderate"
 msgstr "Låg"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:161
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -116,21 +116,21 @@ msgstr ""
 "För att vinna scenariot så måste du besegra mig, eller tvinga mig till "
 "kapitulation!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:167
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:182
 msgid "Defeat enemy leader"
 msgstr "Besegra fiendens ledare"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:171
 msgid "Enemy leader surrenders"
 msgstr "Fiendens ledare kapitulerar"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:175
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:186
 msgid "Death of your leader"
 msgstr "Din ledare dör"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:190
 msgid "Your leader surrenders"
 msgstr "Din ledare kapitulerar"
 
@@ -150,8 +150,8 @@ msgstr ""
 "har hon blivit en stor krigare och ledare. Viljestark och härdad av strider "
 "leder hon trupperna omkring henne i stridens hetta."
 
-#: Mystery_Campaign/units/Battle_Princess.cfg:34
-#: Mystery_Campaign/units/Princess.cfg:35
+#: Mystery_Campaign/units/Battle_Princess.cfg:35
+#: Mystery_Campaign/units/Princess.cfg:36
 msgid "sabre"
 msgstr "sabel"
 
@@ -178,7 +178,7 @@ msgstr ""
 "Dessa mystiska varelser sägs kunna förstena sina offer. Utan tvekan gör "
 "detta dem extremt farliga."
 
-#: Mystery_Campaign/units/Cockatrice.cfg:20
+#: Mystery_Campaign/units/Cockatrice.cfg:21
 msgid "gaze"
 msgstr "blick"
 
@@ -311,18 +311,18 @@ msgstr "Vilken fraktion vill du spela?"
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Välj ut en åt mig!"
 
-#: Mystery_Campaign/utils/config.cfg:53
+#: Mystery_Campaign/utils/config.cfg:54
 msgid "What type of unit should your leader be?"
 msgstr "Vilken sorts ledare vill du ha?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:224
+#: Mystery_Campaign/utils/scenarios.cfg:226
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Snälla, gör mig inte illa! Har du inget medlidande?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:297
+#: Mystery_Campaign/utils/scenarios.cfg:299
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Nej, det är hopplöst! Jag ger upp!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:303
+#: Mystery_Campaign/utils/scenarios.cfg:305
 msgid "Your enemy has surrendered!"
 msgstr "Din fiende har kapitulerat!"

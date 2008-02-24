@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"POT-Creation-Date: 2008-02-24 21:59+0100\n"
 "PO-Revision-Date: 2006-12-05 22:15+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
@@ -101,7 +101,7 @@ msgstr ""
 msgid "Moderate"
 msgstr ""
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:161
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -117,22 +117,22 @@ msgstr ""
 "\n"
 "Abys dokončil scénář, musíš mě porazit, nebo donutit se vzdát!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:167
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:182
 msgid "Defeat enemy leader"
 msgstr ""
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:171
 #, fuzzy
 msgid "Enemy leader surrenders"
 msgstr "Tvůj nepřítel se vzdal"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:175
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:186
 msgid "Death of your leader"
 msgstr ""
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:190
 #, fuzzy
 msgid "Your leader surrenders"
 msgstr "Tvůj nepřítel se vzdal"
@@ -153,8 +153,8 @@ msgstr ""
 "vůdkyní. Zocelená bojem a se silnou vůlí má nyní schopnost ovlivňovat okolní "
 "jednotky v jejich umění boje."
 
-#: Mystery_Campaign/units/Battle_Princess.cfg:34
-#: Mystery_Campaign/units/Princess.cfg:35
+#: Mystery_Campaign/units/Battle_Princess.cfg:35
+#: Mystery_Campaign/units/Princess.cfg:36
 msgid "sabre"
 msgstr "šavle"
 
@@ -181,7 +181,7 @@ msgstr ""
 "Jsou to záhadná stvoření o kterých se říká, že mohou přeměnit živého na "
 "kámen. Je zbytečné zdůrazňovat, že mohou být extrémně nebezpeční."
 
-#: Mystery_Campaign/units/Cockatrice.cfg:20
+#: Mystery_Campaign/units/Cockatrice.cfg:21
 msgid "gaze"
 msgstr "pohled"
 
@@ -314,19 +314,19 @@ msgstr "Za kterou frakci chceš hrát:"
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Vyber pro mě!"
 
-#: Mystery_Campaign/utils/config.cfg:53
+#: Mystery_Campaign/utils/config.cfg:54
 msgid "What type of unit should your leader be?"
 msgstr "Jaká jednotka má reprezentovat tvého vůdce?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:224
+#: Mystery_Campaign/utils/scenarios.cfg:226
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Prosím, neubližuj mi! Což nemáš slitování"
 
-#: Mystery_Campaign/utils/scenarios.cfg:297
+#: Mystery_Campaign/utils/scenarios.cfg:299
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Ach, je to beznadějné! Vzdávám se!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:303
+#: Mystery_Campaign/utils/scenarios.cfg:305
 msgid "Your enemy has surrendered!"
 msgstr "Tvůj nepřítel se vzdal"
 

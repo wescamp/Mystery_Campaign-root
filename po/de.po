@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-10 18:55+0200\n"
+"POT-Creation-Date: 2008-02-24 21:59+0100\n"
 "PO-Revision-Date: 2007-05-19 21:43+0100\n"
 "Last-Translator: heuler06 <heuler85 at yahoo punkt de>\n"
 "Language-Team: none\n"
@@ -100,7 +100,7 @@ msgstr "Exzessiv"
 msgid "Moderate"
 msgstr "Moderat"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:160
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:161
 msgid ""
 "Greetings, $player_leader|, welcome to scenario $scenario_number|.\n"
 "\n"
@@ -117,21 +117,21 @@ msgstr ""
 "Um dieses Szenario abzuschließen, müssen Sie mich besiegen oder zur Aufgabe "
 "zwingen!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:166
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:181
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:167
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:182
 msgid "Defeat enemy leader"
 msgstr "Besiegt alle gegnerischen Anführer"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:170
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:171
 msgid "Enemy leader surrenders"
 msgstr "Euer Gegner hat sich ergeben!"
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:174
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:185
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:175
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:186
 msgid "Death of your leader"
 msgstr "Euer Anführer stirbt in der Schlacht."
 
-#: Mystery_Campaign/scenarios/mystery_scenario.cfg:189
+#: Mystery_Campaign/scenarios/mystery_scenario.cfg:190
 msgid "Your leader surrenders"
 msgstr "Euer Anführer hat sich ergeben!"
 
@@ -152,8 +152,8 @@ msgstr ""
 "willensstark kann sie nun die sie Umgebenden durch ihre Erfahrung im Kampf "
 "unterstützen."
 
-#: Mystery_Campaign/units/Battle_Princess.cfg:34
-#: Mystery_Campaign/units/Princess.cfg:35
+#: Mystery_Campaign/units/Battle_Princess.cfg:35
+#: Mystery_Campaign/units/Princess.cfg:36
 msgid "sabre"
 msgstr "Säbel"
 
@@ -183,7 +183,7 @@ msgstr ""
 "zu Stein erstarren zu lassen. Unnötig zu sagen, dass diese Eigenschaft sie "
 "extrem gefährlich macht."
 
-#: Mystery_Campaign/units/Cockatrice.cfg:20
+#: Mystery_Campaign/units/Cockatrice.cfg:21
 msgid "gaze"
 msgstr "Netz"
 
@@ -320,18 +320,18 @@ msgstr "Welche Fraktion wollt Ihr spielen?"
 msgid "&random-enemy.png=Pick one for me!"
 msgstr "&random-enemy.png=Wähle für mich!"
 
-#: Mystery_Campaign/utils/config.cfg:53
+#: Mystery_Campaign/utils/config.cfg:54
 msgid "What type of unit should your leader be?"
 msgstr "Welcher Einheit soll Ihr Anführer sein?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:224
+#: Mystery_Campaign/utils/scenarios.cfg:226
 msgid "Please don't hurt me! Have you no pity?"
 msgstr "Bitte tut mir nicht weh! Habt Ihr kein Mitleid?"
 
-#: Mystery_Campaign/utils/scenarios.cfg:297
+#: Mystery_Campaign/utils/scenarios.cfg:299
 msgid "Oh, it's hopeless! I surrender!"
 msgstr "Oh, es ist hoffnungslos! Ich gebe auf!"
 
-#: Mystery_Campaign/utils/scenarios.cfg:303
+#: Mystery_Campaign/utils/scenarios.cfg:305
 msgid "Your enemy has surrendered!"
 msgstr "Euer Gegner hat sich ergeben!"
